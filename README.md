@@ -55,12 +55,16 @@ Automated checks cover all 120 five-tile permutations, the 60% example, a year o
 
 Scores are casual and device-local. Clearing browser storage clears progress. The device clock determines the day; simultaneous tabs are last-write-wins. A static client is not appropriate for prize-based or cheat-resistant leaderboards without a backend. Google Fonts has system-font fallbacks; font loading is optional for gameplay. Event links open Wikipedia; the content bank is a starter collection for later editorial expansion.
 
-## Tablet result marks (2.1)
+## Result presentation and sharing (2.2)
 
-Each tablet participates in four relationships. Recorded means 4/4 are correct; Fractured means 1–3/4; Broken means 0/4. The stamp and damage treatment remain visible when the factual detail is collapsed. Marks refer to the original submission even while viewing the corrected order. Each pair appears in two tablets' relationship counts but contributes only once to the overall score.
+The page title, heading, link-preview metadata, and copied score identify Timeline as a daily history puzzle. The restoration theme lives in the drag/tap instructions.
 
-A correct numbered slot is not sufficient for Recorded status if other tablets are on the wrong side. This is an intentional consequence of relative-order scoring and is the main product choice to review with players.
+Each submitted tile shows four squares: green for a correct comparison and orange for an incorrect one, with check/cross symbols on-screen. The plain labels are Correct, Partly correct, and Incorrect. The visual edge fractures are retained; stamps and per-tile fractions are removed.
 
-The first result reveal uses a brief staggered stamp motion. Reduced-motion preferences disable stamping and settling animations. A phone-sized board prioritizes visible, readable controls; the smallest screens and enlarged text retain natural scrolling instead of clipping content.
+Rows follow the submitted timeline. Within a row, the four columns compare the tile against the other four submitted positions from top to bottom, skipping itself. `dist/results.js` builds both the on-screen mapping and the five-row emoji share grid. Switching to the correct-order view does not change the original comparisons or shared row order.
 
-Version 2.1 preserves version-2 daily puzzles, scores, and saved arrangements. Its 12 automated checks cover game behavior, pointer dragging, and result marks.
+Each pair appears in two rows but still counts only once toward the overall score. The underlying scoring, daily seeds, saved games, and statistics remain unchanged. The copied message includes the puzzle description, puzzle number/date (or Practice), percentage, five rows of four emoji squares, and the site URL. It does not reveal event names or dates.
+
+Open Graph and summary-card metadata are provided. Messaging apps control whether and when they display or cache link previews; the copied text always includes the game description. Metadata on a localhost URL is not remotely accessible; publish the updated website to review its messaging-app preview.
+
+Fifteen automated checks include all 120 permutations, exact square-to-comparison identity, UI/share equivalence, hidden-answer behavior, and link metadata. Physical iPhone hardware has not been tested.

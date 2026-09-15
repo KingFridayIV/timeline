@@ -37,3 +37,14 @@ h1{font-size:36px}.instruction{margin:8px 0 15px;min-height:21px}.board{gap:24px
 @media(max-width:360px){.column-label{height:32px}.slot,.fragment{min-height:92px}.tile-title{font-size:1rem}.puzzle-intro h1{font-size:28px}.record-status{flex-wrap:wrap}}
 @media(prefers-reduced-motion:reduce){*,*:before,*:after{animation:none!important;transition:none!important}.drag-ghost{transform:none}.status-stamp{transform:none}}
 .tile-letter{font-size:12px}.record-status{font-size:12px}.status-stamp{font-size:12px;letter-spacing:.65px}
+/* The on-screen squares use the same sequence as the share grid. */
+.relationship-grid{display:inline-flex;gap:5px;flex-shrink:0;align-items:center}
+.relationship-square,.legend-square{display:inline-flex;align-items:center;justify-content:center;width:23px;height:23px;border-radius:2px;font-size:13px;line-height:1;font-style:normal;font-weight:600}
+.relationship-square.hit,.legend-square.hit{background:#508744;color:#fff;border:1px solid #437338}
+.relationship-square.miss,.legend-square.miss{background:#dfa366;color:#513416;border:1px solid #b47b40}
+.tile-outcome{font-size:14px;font-weight:500;color:var(--ink)}
+.recorded .tile-outcome{color:#3e6155}.fractured .tile-outcome{color:#876034}.broken .tile-outcome{color:#934f3b}
+.result-legend{display:flex;gap:20px;font-size:13px;color:var(--muted);margin:0 0 12px}.result-legend>span{display:flex;align-items:center;gap:7px}.legend-square{width:17px;height:17px;font-size:12px}
+.record-note{margin:0 0 16px}.record-status{padding-top:10px;gap:10px;flex-wrap:nowrap}
+@media(max-width:540px){.relationship-grid{gap:4px}.relationship-square{width:22px;height:22px}.tile-outcome{font-size:13px}.instruction{min-height:35px}.record-status{flex-wrap:nowrap}}
+@media(max-width:360px){.relationship-square{width:20px;height:20px}.relationship-grid{gap:3px}}
