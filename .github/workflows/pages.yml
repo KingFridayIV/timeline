@@ -26,6 +26,8 @@ jobs:
         with:
           node-version: '22'
           package-manager-cache: false
+      - name: Validate and build dated puzzles
+        run: node scripts/build-puzzles.mjs
       - name: Test game logic and UI handlers
         run: node --test tests/*.test.mjs
       - name: Configure Pages
