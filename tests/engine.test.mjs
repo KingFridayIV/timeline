@@ -1,7 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import {EVENTS} from '../dist/events.js';
-import {makePuzzle,newGame,derive,arrange,submit,scoreOrder,validGame,statistics,dayKey,puzzleNumber} from '../dist/engine.js';
+import {makePuzzle,newGame,derive,arrange,submit,scoreOrder,tileStatus,validGame,statistics,dayKey,puzzleNumber} from '../dist/engine.js';
 function permutations(a){return a.length?a.flatMap((v,i)=>permutations(a.filter((_,j)=>i!==j)).map(p=>[v,...p])):[[]];}
 test('all 120 arrangements receive correct relative-order credit',()=>{
  const cards=makePuzzle('scoring').sort((a,b)=>a.year-b.year);const outcomes=[];
@@ -47,4 +47,13 @@ test('UTC rollover and new percentage statistics',()=>{
 test('all content has unique IDs, years, and HTTPS source links',()=>{
  assert.equal(new Set(EVENTS.map(e=>e.id)).size,EVENTS.length);assert.equal(new Set(EVENTS.map(e=>e.year)).size,EVENTS.length);
  for(const e of EVENTS){assert.ok(e.title&&e.fact&&e.category);assert.equal(new URL(e.source).protocol,'https:');}
+});
+test('tablet marks reflect pair contributions without double-counting the total',()=>{
+ const cards=makePuzzle('marks').sort((a,b)=>a.year-b.year);
+ const partial=scoreOrder([cards[4],...cards.slice(0,4)]);
+ assert.deepEqual(tileStatus(partial,cards[4].id),{correct:0,total:4,status:'broken'});
+ assert.deepEqual(tileStatus(partial,cards[0].id),{correct:3,total:4,status:'fractured'});
+ assert.equal(cards.reduce((n,c)=>n+tileStatus(partial,c.id).correct,0),partial.correctPairs*2);
+ for(const c of cards)assert.equal(tileStatus(scoreOrder(cards),c.id).status,'recorded');
+ for(const c of cards)assert.equal(tileStatus(scoreOrder([...cards].reverse()),c.id).status,'broken');
 });

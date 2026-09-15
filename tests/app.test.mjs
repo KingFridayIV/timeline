@@ -25,6 +25,9 @@ test('UI: all tiles/spaces, staged changes, undo, final-only years, and persiste
  assert.ok(!('result' in read()));assert.equal((html().match(/data-tile=/g)||[]).length,5);
  const saved=JSON.parse(stored.get('timeline-v2:'+dayKey()));assert.equal(saved.submitted,false);assert.deepEqual(saved.slots,order.map(c=>c.id));
  await click({id:'submit'});assert.equal(read().result.percent,60);for(const c of cards)assert.ok(html().includes(String(c.year)));
+ assert.equal((html().match(/class="tablet-record broken"/g)||[]).length,1);
+ assert.equal((html().match(/class="tablet-record fractured"/g)||[]).length,4);
+ assert.ok(html().includes('status-stamp'));
  assert.equal(JSON.parse(stored.get('timeline-v2-history'))[dayKey()],6);
  assert.throws(()=>registered.get('submit_timeline').execute());
  await click({dataset:{view:'correct'}});assert.ok(html().includes('Your position: 5'));

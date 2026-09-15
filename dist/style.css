@@ -8,3 +8,32 @@
 @media(max-width:540px){.slot,.fragment{min-height:90px}.fragment .tile-meta{display:none}.fragment.placed .tile-letter:after{content:' ✓'}.edition-row{margin-bottom:12px}.instruction{margin-bottom:8px}.submit-bar{position:static;box-shadow:none}}
 @media(max-width:360px){.slot,.fragment{min-height:100px}}
 @media(max-width:540px){.tile-title{font-size:1rem}.shell{padding-left:max(16px,env(safe-area-inset-left));padding-right:max(16px,env(safe-area-inset-right))}}
+/* Tablet handling: pointer drag on tablets, native scrolling in the surrounding page. */
+.fragment,.slot.occupied{touch-action:none;user-select:none;-webkit-user-select:none;-webkit-touch-callout:none;cursor:grab;border-radius:5px 5px 2px 2px;box-shadow:inset 0 1px 0 #fffaf7,0 2px 0 #cfc4b1,0 3px 7px #302f2908}
+.is-lifted{opacity:.3!important;box-shadow:none!important}
+.drag-ghost{position:fixed!important;z-index:100!important;pointer-events:none!important;opacity:.97!important;margin:0!important;transform:rotate(-2deg) scale(1.035);box-shadow:0 20px 28px #302f2933,0 4px 7px #302f2920!important;border-color:#ac9270!important;background:#fffcf2!important;color:var(--ink)!important;cursor:grabbing!important;will-change:top,left}
+.drag-ghost .tile-title,.drag-ghost .tile-letter{color:var(--ink)!important}
+.dragging-tablet .slot{border-color:#a79270}
+.slot.drop-ready{border:2px solid var(--accent)!important;background:#e0d2b8!important;box-shadow:inset 0 0 0 3px #f4f1e9,0 0 0 2px #b79e7255;transform:translateY(1px)}
+.slot.just-placed{animation:settle .24s ease-out}
+@keyframes settle{0%{transform:translateY(-5px);box-shadow:0 8px 12px #302f2922}65%{transform:translateY(1px)}100%{transform:translateY(0)}}
+/* Less framing, more puzzle. Practice stays a quiet secondary route. */
+header{height:64px}main{padding-top:6px}.edition-row{margin-bottom:5px;min-height:32px}.edition-row .inline-button{min-height:36px;padding:5px 0;font-size:12px;color:var(--muted)}
+h1{font-size:36px}.instruction{margin:8px 0 15px;min-height:21px}.board{gap:24px}.column-label{margin-bottom:7px}.slot,.fragment{min-height:96px}.tile-meta{display:none}.fragment.placed .tile-letter:after{content:' ✓'}
+.quiet-links{display:flex;align-items:center;justify-content:space-between;gap:12px;padding-bottom:8px;font-size:12px;color:var(--muted)}.quiet-links .inline-button{font-size:13px;min-height:44px}.quiet-links>span{font-size:12px}.result-actions{align-items:center;gap:22px}.result-actions .inline-button{flex:0 0 auto;font-size:14px}.result-actions .primary{flex:1}.record-note{font-size:12px;line-height:1.5;color:var(--muted);margin:-5px 0 14px}
+/* Permanent record: status marks remain visible without expanding the facts. */
+.revealed .tablet-record{position:relative;border-radius:6px 6px 2px 2px;box-shadow:inset 0 1px 0 #fff,0 3px 0 #d2c8b7;overflow:hidden}
+.revealed .tablet-record summary{display:block;padding:14px 17px 13px 14px}
+.record-main{display:flex;gap:14px;align-items:center;width:100%}.record-status{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-top:13px;padding-top:10px;border-top:1px solid #d8d1c388;color:var(--muted);font-size:12px}
+.status-stamp{display:inline-block;border:2px double currentColor;padding:3px 7px;letter-spacing:1px;text-transform:uppercase;font-size:11px;font-weight:700;white-space:nowrap;transform:rotate(-2deg);transform-origin:center}
+.recorded{background:#f0f3e9!important;border-color:#adb8a5!important}.recorded .status-stamp{color:#3e6155}
+.fractured{background:#f7f0e2!important;border-color:#c6b18f!important}.fractured .status-stamp{color:#926535;border-style:dashed}
+.broken{background:#f4e8e0!important;border-color:#c8a18d!important}.broken .status-stamp{color:#934f3b;border-style:dashed;transform:rotate(2deg)}
+.fractured:after,.broken:after{content:'';pointer-events:none;position:absolute;right:0;top:23px;width:8px;height:38px;background:#b69a72;clip-path:polygon(100% 0,20% 19%,70% 36%,0 54%,60% 68%,20% 86%,100% 100%,100% 86%,65% 84%,90% 68%,35% 53%,100% 35%,55% 19%)}
+.broken:after{height:calc(100% - 35px);width:10px;background:#b47d63}.broken .reveal-year{color:#985c44}
+.recording .status-stamp{animation:record-stamp .38s both;animation-delay:var(--record-delay)}
+@keyframes record-stamp{0%{opacity:0;transform:scale(1.35) rotate(-8deg)}65%{opacity:1;transform:scale(.96) rotate(-2deg)}100%{opacity:1;transform:scale(1) rotate(-2deg)}}
+@media(max-width:540px){header{height:50px}.wordmark{font-size:26px}main{padding-top:3px}.edition-row{margin:0 0 2px}.puzzle-intro h1{font-size:30px}.instruction{font-size:13px;line-height:1.35;min-height:35px;margin:6px 0 8px}.board{gap:16px}.column-label{height:20px;margin-bottom:6px}.timeline,.fragments{gap:7px}.slot,.fragment{min-height:86px;padding:8px}.tile-title{font-size:1rem;line-height:1.15;margin-top:4px}.slot.occupied .tile-title{margin-top:4px}.tile-letter{font-size:11px}.axis-end{margin-top:5px}.board-tools{margin:0}.board-tools .small-button{min-height:36px}.submit-bar{padding:7px 0 9px}.quiet-links>span{display:none}.quiet-links{justify-content:center;padding-bottom:0}.record-main{gap:10px}.record-status{gap:6px;font-size:11px}.revealed .tablet-record summary{padding:12px 16px 12px 12px}.status-stamp{font-size:10px;padding:3px 5px}.record-note{margin-top:-2px}.result-actions{margin-bottom:20px}}
+@media(max-width:360px){.column-label{height:32px}.slot,.fragment{min-height:92px}.tile-title{font-size:1rem}.puzzle-intro h1{font-size:28px}.record-status{flex-wrap:wrap}}
+@media(prefers-reduced-motion:reduce){*,*:before,*:after{animation:none!important;transition:none!important}.drag-ghost{transform:none}.status-stamp{transform:none}}
+.tile-letter{font-size:12px}.record-status{font-size:12px}.status-stamp{font-size:12px;letter-spacing:.65px}
