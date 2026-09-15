@@ -1,10 +1,14 @@
 # Timeline — restore the timeline
 
-A mobile-first daily ordering puzzle, built as a dependency-free static website.
+A mobile-first daily history puzzle, built as a dependency-free static website. Release 2.3 includes 15 curated daily puzzles for September 16–30, 2026 (UTC), with 75 distinct events and verified Wikipedia links.
 
 ## Local play
 
-With Node.js 20 or later installed, run `npm start` and open http://127.0.0.1:4173/. No install or build step is required. Keep the terminal open while playing; Ctrl+C stops the server. `npm test` runs the checks.
+With Node.js 20 or later installed, run `npm start` and open http://127.0.0.1:4173/. No install or build step is required for the supplied package. After editing content, run `npm run puzzles` first. Keep the terminal open while playing; Ctrl+C stops the server. `npm test` runs the checks.
+
+## More puzzles and the pilot
+
+See [content/README.md](content/README.md) for the simple batch workflow and [PILOT.md](PILOT.md) for publication checks and an invitation you can send to friends. Next time, ask for the next 15 dates after the last scheduled date (currently October 1 onward). Each new batch is a JSON file; GitHub automatically validates and builds it before deployment.
 
 ## The game
 
@@ -45,6 +49,7 @@ No repository has been created or pushed and no online deployment has been perfo
 - `dist/app.js`: interaction coordination, result reveal, sharing, persistence, optional WebMCP tools. `dist/drag.js`: isolated pointer-drag controller.
 - `dist/style.css` and `dist/index.html`: mobile layout and museum-inspired presentation.
 - `dist/events.js`: immutable event bank and sources. `dist/labels.js`: editable short display labels.
+- `content/batches/*.json`: editable future daily batches; `scripts/build-puzzles.mjs` validates and compiles them into `dist/puzzles.js`.
 - `.github/workflows/pages.yml`: test-and-publish workflow.
 
 Do not reorder, add, or remove entries from the current seeded event bank after publishing it: doing so changes active puzzles. Use a new content version and explicit activation date for bank changes. Wording or short-label edits that preserve IDs, order, and dates do not change the seeded selection.
@@ -67,4 +72,12 @@ Each pair appears in two rows but still counts only once toward the overall scor
 
 Open Graph and summary-card metadata are provided. Messaging apps control whether and when they display or cache link previews; the copied text always includes the game description. Metadata on a localhost URL is not remotely accessible; publish the updated website to review its messaging-app preview.
 
-Fifteen automated checks include all 120 permutations, exact square-to-comparison identity, UI/share equivalence, hidden-answer behavior, and link metadata. Physical iPhone hardware has not been tested.
+Nineteen automated checks include all 120 permutations, every curated daily puzzle, content validation, exact square-to-comparison identity, UI/share equivalence, hidden-answer behavior, and link metadata. Physical iPhone hardware has not been tested.
+
+## Pilot additions (2.3)
+
+The curated schedule overrides only its explicit future daily dates. Earlier dates, practice, storage keys, and scoring retain their existing behavior. After the curated batch ends, the original daily generator continues until another batch is added. Published dates must remain unchanged so existing saves stay valid.
+
+The Share result button opens the native share menu on supported phones. Cancellation is silent; unavailable sharing falls back to copying, then to a selectable text box if clipboard access is unavailable. The same description, score, emoji grid, and URL are used in every path.
+
+All 75 unique Wikipedia references in this batch returned HTTP 200 on September 15, 2026. The source-check report is in `content/reports/`; the online check is separate from the offline test suite. Wikipedia availability is not guaranteed permanently.

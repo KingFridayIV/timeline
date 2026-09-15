@@ -1,6 +1,6 @@
 {
-  "name": "timeline-daily", "version": "2.2.0", "private": true,
+  "name": "timeline-daily", "version": "2.3.0", "private": true,
   "type": "module",
-  "scripts": { "start": "node server.mjs", "dev": "node server.mjs", "test": "node --test" },
+  "scripts": { "start": "node server.mjs", "dev": "node server.mjs", "test": "node --test", "puzzles": "node scripts/build-puzzles.mjs", "puzzles:check": "node scripts/build-puzzles.mjs --check", "sources:check": "node scripts/check-sources.mjs" },
   "engines": { "node": ">=20" }
 }

@@ -1,0 +1,755 @@
+{
+  "schemaVersion": 1,
+  "puzzles": [
+    {
+      "date": "2026-09-16",
+      "events": [
+        {
+          "id": "magna",
+          "year": 1215,
+          "title": "Magna Carta is sealed",
+          "category": "World",
+          "fact": "King John seals the charter at Runnymede.",
+          "source": "https://en.wikipedia.org/wiki/Magna_Carta",
+          "label": "Magna Carta is sealed"
+        },
+        {
+          "id": "liberty",
+          "year": 1886,
+          "title": "The Statue of Liberty is dedicated",
+          "category": "Culture",
+          "fact": "The statue, a gift from France, is dedicated in New York Harbor.",
+          "source": "https://en.wikipedia.org/wiki/Statue_of_Liberty",
+          "label": "Statue of Liberty is dedicated"
+        },
+        {
+          "id": "penicillin",
+          "year": 1928,
+          "title": "Fleming discovers penicillin",
+          "category": "Science",
+          "fact": "Alexander Fleming notices that mold inhibits bacterial growth.",
+          "source": "https://en.wikipedia.org/wiki/Penicillin",
+          "label": "Fleming discovers penicillin"
+        },
+        {
+          "id": "disney",
+          "year": 1955,
+          "title": "Disneyland opens in California",
+          "category": "Culture",
+          "fact": "Walt Disney’s theme park opens in Anaheim, with a televised dedication on July 17.",
+          "source": "https://en.wikipedia.org/wiki/Disneyland",
+          "label": "Disneyland opens in California"
+        },
+        {
+          "id": "iphone",
+          "year": 2007,
+          "title": "The first iPhone is unveiled",
+          "category": "Invention",
+          "fact": "Steve Jobs introduces Apple’s first iPhone in January.",
+          "source": "https://en.wikipedia.org/wiki/IPhone_(1st_generation)",
+          "label": "The first iPhone is unveiled"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-17",
+      "events": [
+        {
+          "id": "zheng",
+          "year": 1405,
+          "title": "Zheng He begins his first treasure voyage",
+          "category": "Exploration",
+          "fact": "The Ming fleet leaves China on the first of seven major expeditions across Asian waters.",
+          "source": "https://en.wikipedia.org/wiki/Ming_treasure_voyages",
+          "label": "Zheng He’s first treasure voyage"
+        },
+        {
+          "id": "bastille",
+          "year": 1789,
+          "title": "The Bastille is stormed",
+          "category": "World",
+          "fact": "The Paris uprising becomes a defining moment of the French Revolution.",
+          "source": "https://en.wikipedia.org/wiki/Storming_of_the_Bastille",
+          "label": "The Bastille is stormed"
+        },
+        {
+          "id": "bell",
+          "year": 1876,
+          "title": "Bell receives his telephone patent",
+          "category": "Invention",
+          "fact": "Alexander Graham Bell receives US patent 174,465.",
+          "source": "https://en.wikipedia.org/wiki/Alexander_Graham_Bell",
+          "label": "Bell patents the telephone"
+        },
+        {
+          "id": "earhart",
+          "year": 1932,
+          "title": "Amelia Earhart flies solo across the Atlantic",
+          "category": "Exploration",
+          "fact": "She becomes the first woman to make the solo crossing.",
+          "source": "https://en.wikipedia.org/wiki/Amelia_Earhart",
+          "label": "Earhart crosses the Atlantic solo"
+        },
+        {
+          "id": "hubble",
+          "year": 1990,
+          "title": "The Hubble Space Telescope launches",
+          "category": "Space",
+          "fact": "Space Shuttle Discovery carries the telescope into orbit.",
+          "source": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope",
+          "label": "Hubble launches"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-18",
+      "events": [
+        {
+          "id": "columbus",
+          "year": 1492,
+          "title": "Columbus reaches the Caribbean",
+          "category": "Exploration",
+          "fact": "His first Atlantic voyage reaches the Caribbean in October.",
+          "source": "https://en.wikipedia.org/wiki/Voyages_of_Christopher_Columbus",
+          "label": "Columbus reaches the Caribbean"
+        },
+        {
+          "id": "beagle",
+          "year": 1831,
+          "title": "Darwin sets sail on HMS Beagle",
+          "category": "Exploration",
+          "fact": "The ship leaves Plymouth on a survey voyage that will help shape Darwin’s later ideas.",
+          "source": "https://en.wikipedia.org/wiki/Second_voyage_of_HMS_Beagle",
+          "label": "Darwin sets sail on the Beagle"
+        },
+        {
+          "id": "eiffel",
+          "year": 1889,
+          "title": "The Eiffel Tower opens",
+          "category": "Culture",
+          "fact": "The tower is built for the Paris world’s fair.",
+          "source": "https://en.wikipedia.org/wiki/Eiffel_Tower",
+          "label": "The Eiffel Tower opens"
+        },
+        {
+          "id": "bullet",
+          "year": 1964,
+          "title": "Japan’s first Shinkansen line opens",
+          "category": "Invention",
+          "fact": "The Tōkaidō Shinkansen begins service between Tokyo and Shin-Osaka shortly before the Tokyo Olympics.",
+          "source": "https://en.wikipedia.org/wiki/T%C5%8Dkaid%C5%8D_Shinkansen",
+          "label": "Japan’s first bullet train line"
+        },
+        {
+          "id": "dolly",
+          "year": 1996,
+          "title": "Dolly the sheep is born",
+          "category": "Science",
+          "fact": "Dolly is the first mammal cloned from an adult somatic cell.",
+          "source": "https://en.wikipedia.org/wiki/Dolly_(sheep)",
+          "label": "Dolly the sheep is born"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-19",
+      "events": [
+        {
+          "id": "hastings",
+          "year": 1066,
+          "title": "The Battle of Hastings is fought",
+          "category": "World",
+          "fact": "William of Normandy defeats King Harold II, a turning point in the Norman conquest of England.",
+          "source": "https://en.wikipedia.org/wiki/Battle_of_Hastings",
+          "label": "The Battle of Hastings"
+        },
+        {
+          "id": "pride",
+          "year": 1813,
+          "title": "Pride and Prejudice is published",
+          "category": "Culture",
+          "fact": "Jane Austen’s novel introduces Elizabeth Bennet and Mr. Darcy.",
+          "source": "https://en.wikipedia.org/wiki/Pride_and_Prejudice",
+          "label": "Pride and Prejudice debuts"
+        },
+        {
+          "id": "panama",
+          "year": 1914,
+          "title": "The Panama Canal opens",
+          "category": "World",
+          "fact": "The canal opens to traffic, connecting the Atlantic and Pacific oceans through Panama.",
+          "source": "https://en.wikipedia.org/wiki/Panama_Canal",
+          "label": "The Panama Canal opens"
+        },
+        {
+          "id": "sputnik",
+          "year": 1957,
+          "title": "Sputnik 1 reaches orbit",
+          "category": "Space",
+          "fact": "The Soviet satellite becomes the first artificial satellite to orbit Earth.",
+          "source": "https://en.wikipedia.org/wiki/Sputnik_1",
+          "label": "Sputnik 1 reaches orbit"
+        },
+        {
+          "id": "wiki",
+          "year": 2001,
+          "title": "Wikipedia launches",
+          "category": "Culture",
+          "fact": "The free online encyclopedia opens on January 15.",
+          "source": "https://en.wikipedia.org/wiki/Wikipedia",
+          "label": "Wikipedia launches"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-20",
+      "events": [
+        {
+          "id": "luther",
+          "year": 1517,
+          "title": "Martin Luther writes the Ninety-five Theses",
+          "category": "World",
+          "fact": "Luther challenges the sale of indulgences in a text that helps spark the Protestant Reformation.",
+          "source": "https://en.wikipedia.org/wiki/Ninety-five_Theses",
+          "label": "Luther writes his 95 theses"
+        },
+        {
+          "id": "suez",
+          "year": 1869,
+          "title": "The Suez Canal opens",
+          "category": "World",
+          "fact": "The canal creates a direct water route between the Mediterranean and Red seas.",
+          "source": "https://en.wikipedia.org/wiki/Suez_Canal",
+          "label": "The Suez Canal opens"
+        },
+        {
+          "id": "southpole",
+          "year": 1911,
+          "title": "Amundsen’s team reaches the South Pole",
+          "category": "Exploration",
+          "fact": "Roald Amundsen and four companions become the first expedition to reach the geographic South Pole.",
+          "source": "https://en.wikipedia.org/wiki/Amundsen%27s_South_Pole_expedition",
+          "label": "Amundsen reaches the South Pole"
+        },
+        {
+          "id": "pong",
+          "year": 1972,
+          "title": "Pong is released",
+          "category": "Culture",
+          "fact": "Atari’s arcade table-tennis game becomes an early video-game hit.",
+          "source": "https://en.wikipedia.org/wiki/Pong",
+          "label": "Pong is released"
+        },
+        {
+          "id": "blackhole",
+          "year": 2019,
+          "title": "The first image of a black hole is released",
+          "category": "Science",
+          "fact": "The Event Horizon Telescope reveals the black hole in galaxy M87.",
+          "source": "https://en.wikipedia.org/wiki/Event_Horizon_Telescope",
+          "label": "The first black hole image"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-21",
+      "events": [
+        {
+          "id": "copernicus",
+          "year": 1543,
+          "title": "Copernicus publishes his heliocentric model",
+          "category": "Science",
+          "fact": "On the Revolutions of the Heavenly Spheres places the Sun at the center of its model.",
+          "source": "https://en.wikipedia.org/wiki/De_revolutionibus_orbium_coelestium",
+          "label": "Copernicus publishes his model"
+        },
+        {
+          "id": "rail",
+          "year": 1825,
+          "title": "The Stockton and Darlington Railway opens",
+          "category": "Invention",
+          "fact": "Its opening train is hauled by Locomotion No. 1, an early milestone for public steam railways.",
+          "source": "https://en.wikipedia.org/wiki/Stockton_and_Darlington_Railway",
+          "label": "Stockton–Darlington rail opens"
+        },
+        {
+          "id": "olympics",
+          "year": 1896,
+          "title": "The first modern Olympics take place",
+          "category": "Sport",
+          "fact": "Athens hosts the first Games of the modern Olympic era.",
+          "source": "https://en.wikipedia.org/wiki/1896_Summer_Olympics",
+          "label": "The first modern Olympics"
+        },
+        {
+          "id": "india",
+          "year": 1947,
+          "title": "India gains independence",
+          "category": "World",
+          "fact": "British rule ends and India becomes independent on August 15, amid the partition of British India.",
+          "source": "https://en.wikipedia.org/wiki/Indian_Independence_Act_1947",
+          "label": "India gains independence"
+        },
+        {
+          "id": "starwars",
+          "year": 1977,
+          "title": "The first Star Wars film opens",
+          "category": "Culture",
+          "fact": "The original film introduces Luke Skywalker, Leia, and Darth Vader.",
+          "source": "https://en.wikipedia.org/wiki/Star_Wars_(film)",
+          "label": "Star Wars opens in cinemas"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-22",
+      "events": [
+        {
+          "id": "magellan",
+          "year": 1522,
+          "title": "The first voyage around the world is completed",
+          "category": "Exploration",
+          "fact": "Juan Sebastián Elcano brings Victoria back to Spain after Magellan’s death during the expedition.",
+          "source": "https://en.wikipedia.org/wiki/Magellan_expedition",
+          "label": "First voyage around the world"
+        },
+        {
+          "id": "darwin",
+          "year": 1859,
+          "title": "On the Origin of Species is published",
+          "category": "Science",
+          "fact": "Charles Darwin presents his theory of evolution by natural selection.",
+          "source": "https://en.wikipedia.org/wiki/On_the_Origin_of_Species",
+          "label": "Darwin publishes Origin of Species"
+        },
+        {
+          "id": "tut",
+          "year": 1922,
+          "title": "Tutankhamun’s tomb is discovered",
+          "category": "Exploration",
+          "fact": "Howard Carter’s team finds the entrance in Egypt’s Valley of the Kings.",
+          "source": "https://en.wikipedia.org/wiki/Discovery_of_the_tomb_of_Tutankhamun",
+          "label": "Tutankhamun’s tomb is found"
+        },
+        {
+          "id": "rubik",
+          "year": 1974,
+          "title": "Ernő Rubik invents his puzzle cube",
+          "category": "Invention",
+          "fact": "The Hungarian designer creates the twisting cube later known around the world as Rubik’s Cube.",
+          "source": "https://en.wikipedia.org/wiki/Rubik%27s_Cube",
+          "label": "Rubik invents his puzzle cube"
+        },
+        {
+          "id": "webb",
+          "year": 2021,
+          "title": "The James Webb Space Telescope launches",
+          "category": "Space",
+          "fact": "The telescope launches on December 25.",
+          "source": "https://en.wikipedia.org/wiki/James_Webb_Space_Telescope",
+          "label": "The Webb telescope launches"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "events": [
+        {
+          "id": "folio",
+          "year": 1623,
+          "title": "Shakespeare’s First Folio is published",
+          "category": "Culture",
+          "fact": "Fellow actors collect 36 of Shakespeare’s plays in a volume published after his death.",
+          "source": "https://en.wikipedia.org/wiki/First_Folio",
+          "label": "Shakespeare’s First Folio debuts"
+        },
+        {
+          "id": "declaration",
+          "year": 1776,
+          "title": "The US Declaration of Independence is adopted",
+          "category": "World",
+          "fact": "The Continental Congress adopts the Declaration on July 4.",
+          "source": "https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence",
+          "label": "US independence is declared"
+        },
+        {
+          "id": "xray",
+          "year": 1895,
+          "title": "Röntgen discovers X-rays",
+          "category": "Science",
+          "fact": "Wilhelm Röntgen identifies a form of radiation that can reveal structures inside the body.",
+          "source": "https://en.wikipedia.org/wiki/Wilhelm_R%C3%B6ntgen",
+          "label": "Röntgen discovers X-rays"
+        },
+        {
+          "id": "un",
+          "year": 1945,
+          "title": "The United Nations is founded",
+          "category": "World",
+          "fact": "The UN Charter enters into force on October 24.",
+          "source": "https://en.wikipedia.org/wiki/United_Nations",
+          "label": "The United Nations is founded"
+        },
+        {
+          "id": "pluto",
+          "year": 2015,
+          "title": "New Horizons flies past Pluto",
+          "category": "Space",
+          "fact": "The NASA spacecraft returns close-up views of the dwarf planet.",
+          "source": "https://en.wikipedia.org/wiki/New_Horizons",
+          "label": "New Horizons flies past Pluto"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-24",
+      "events": [
+        {
+          "id": "taj",
+          "year": 1648,
+          "title": "The Taj Mahal’s main mausoleum is completed",
+          "category": "Culture",
+          "fact": "The central tomb is finished before the surrounding complex, which takes several more years.",
+          "source": "https://en.wikipedia.org/wiki/Taj_Mahal",
+          "label": "Taj Mahal’s main tomb completed"
+        },
+        {
+          "id": "frankenstein",
+          "year": 1818,
+          "title": "Frankenstein is published",
+          "category": "Culture",
+          "fact": "Mary Shelley’s novel first appears anonymously.",
+          "source": "https://en.wikipedia.org/wiki/Frankenstein",
+          "label": "Frankenstein is published"
+        },
+        {
+          "id": "nobel",
+          "year": 1901,
+          "title": "The first Nobel Prizes are awarded",
+          "category": "Culture",
+          "fact": "The first awards honor achievements in physics, chemistry, medicine, literature, and peace.",
+          "source": "https://en.wikipedia.org/wiki/Nobel_Prize",
+          "label": "The first Nobel Prizes"
+        },
+        {
+          "id": "everest",
+          "year": 1953,
+          "title": "Hillary and Norgay reach Everest’s summit",
+          "category": "Exploration",
+          "fact": "Edmund Hillary and Tenzing Norgay make the first confirmed ascent.",
+          "source": "https://en.wikipedia.org/wiki/1953_British_Mount_Everest_expedition",
+          "label": "Hillary and Norgay summit Everest"
+        },
+        {
+          "id": "pacman",
+          "year": 1980,
+          "title": "Pac-Man debuts in Japan",
+          "category": "Culture",
+          "fact": "Namco’s maze game introduces its dot-eating hero and four pursuing ghosts.",
+          "source": "https://en.wikipedia.org/wiki/Pac-Man",
+          "label": "Pac-Man debuts in Japan"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "events": [
+        {
+          "id": "fire",
+          "year": 1666,
+          "title": "The Great Fire of London breaks out",
+          "category": "World",
+          "fact": "A fire starting in a bakery on Pudding Lane spreads through much of the old City of London.",
+          "source": "https://en.wikipedia.org/wiki/Great_Fire_of_London",
+          "label": "The Great Fire of London"
+        },
+        {
+          "id": "periodic",
+          "year": 1869,
+          "title": "Mendeleev presents his periodic table",
+          "category": "Science",
+          "fact": "His arrangement groups elements by their properties and leaves room for elements still to be discovered.",
+          "source": "https://en.wikipedia.org/wiki/Dmitri_Mendeleev",
+          "label": "Mendeleev’s periodic table"
+        },
+        {
+          "id": "flight",
+          "year": 1903,
+          "title": "The Wright brothers make their first powered flight",
+          "category": "Invention",
+          "fact": "Their aircraft takes off at Kill Devil Hills, near Kitty Hawk in North Carolina.",
+          "source": "https://en.wikipedia.org/wiki/Wright_brothers",
+          "label": "The Wrights’ first powered flight"
+        },
+        {
+          "id": "snowwhite",
+          "year": 1937,
+          "title": "Disney’s Snow White premieres",
+          "category": "Culture",
+          "fact": "Snow White and the Seven Dwarfs premieres in Los Angeles as Disney’s first animated feature.",
+          "source": "https://en.wikipedia.org/wiki/Snow_White_and_the_Seven_Dwarfs_(1937_film)",
+          "label": "Disney’s Snow White premieres"
+        },
+        {
+          "id": "station",
+          "year": 1998,
+          "title": "The first International Space Station module launches",
+          "category": "Space",
+          "fact": "Zarya becomes the first piece of the orbiting station.",
+          "source": "https://en.wikipedia.org/wiki/Zarya_(ISS_module)",
+          "label": "The first ISS module launches"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-26",
+      "events": [
+        {
+          "id": "newton",
+          "year": 1687,
+          "title": "Newton publishes Principia",
+          "category": "Science",
+          "fact": "His landmark work describes the laws of motion and universal gravitation.",
+          "source": "https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica",
+          "label": "Newton publishes Principia"
+        },
+        {
+          "id": "yellowstone",
+          "year": 1872,
+          "title": "Yellowstone becomes a national park",
+          "category": "World",
+          "fact": "A US law establishes Yellowstone National Park, protecting its geysers and landscapes.",
+          "source": "https://en.wikipedia.org/wiki/Yellowstone_National_Park",
+          "label": "Yellowstone becomes a park"
+        },
+        {
+          "id": "worldcup",
+          "year": 1930,
+          "title": "The first FIFA World Cup takes place",
+          "category": "Sport",
+          "fact": "Host nation Uruguay wins the inaugural tournament.",
+          "source": "https://en.wikipedia.org/wiki/1930_FIFA_World_Cup",
+          "label": "The first FIFA World Cup"
+        },
+        {
+          "id": "sydney",
+          "year": 1973,
+          "title": "The Sydney Opera House opens",
+          "category": "Culture",
+          "fact": "Queen Elizabeth II formally opens the harbor-side performing arts center.",
+          "source": "https://en.wikipedia.org/wiki/Sydney_Opera_House",
+          "label": "The Sydney Opera House opens"
+        },
+        {
+          "id": "toystory",
+          "year": 1995,
+          "title": "Toy Story opens in cinemas",
+          "category": "Culture",
+          "fact": "Pixar releases the first fully computer-animated feature film.",
+          "source": "https://en.wikipedia.org/wiki/Toy_Story",
+          "label": "Toy Story opens in cinemas"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-27",
+      "events": [
+        {
+          "id": "stone",
+          "year": 1799,
+          "title": "The Rosetta Stone is found",
+          "category": "Exploration",
+          "fact": "French soldiers find the inscribed stone in Egypt; its parallel texts later help unlock hieroglyphs.",
+          "source": "https://en.wikipedia.org/wiki/Rosetta_Stone",
+          "label": "The Rosetta Stone is found"
+        },
+        {
+          "id": "exhibition",
+          "year": 1851,
+          "title": "London’s Great Exhibition opens",
+          "category": "Culture",
+          "fact": "The Crystal Palace in Hyde Park houses displays of industry and design from around the world.",
+          "source": "https://en.wikipedia.org/wiki/Great_Exhibition",
+          "label": "The Great Exhibition opens"
+        },
+        {
+          "id": "insulin",
+          "year": 1922,
+          "title": "Insulin is first used to treat a person with diabetes",
+          "category": "Science",
+          "fact": "Leonard Thompson receives insulin in Toronto; a purified preparation makes the treatment successful.",
+          "source": "https://en.wikipedia.org/wiki/Insulin_(medication)",
+          "label": "Insulin first treats diabetes"
+        },
+        {
+          "id": "gagarin",
+          "year": 1961,
+          "title": "Yuri Gagarin becomes the first human in space",
+          "category": "Space",
+          "fact": "Vostok 1 carries him on a single orbit of Earth.",
+          "source": "https://en.wikipedia.org/wiki/Vostok_1",
+          "label": "Gagarin becomes first in space"
+        },
+        {
+          "id": "wall",
+          "year": 1989,
+          "title": "The Berlin Wall opens",
+          "category": "World",
+          "fact": "East Germany opens border crossings on November 9.",
+          "source": "https://en.wikipedia.org/wiki/Fall_of_the_Berlin_Wall",
+          "label": "The Berlin Wall opens"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-28",
+      "events": [
+        {
+          "id": "waitangi",
+          "year": 1840,
+          "title": "The Treaty of Waitangi is first signed",
+          "category": "World",
+          "fact": "Representatives of the British Crown and Māori chiefs sign the treaty at Waitangi in New Zealand.",
+          "source": "https://en.wikipedia.org/wiki/Treaty_of_Waitangi",
+          "label": "Treaty of Waitangi first signed"
+        },
+        {
+          "id": "nzvote",
+          "year": 1893,
+          "title": "New Zealand grants women the parliamentary vote",
+          "category": "World",
+          "fact": "A new electoral law gives women the right to vote in parliamentary elections.",
+          "source": "https://en.wikipedia.org/wiki/Women%27s_suffrage_in_New_Zealand",
+          "label": "New Zealand women win the vote"
+        },
+        {
+          "id": "hobbit",
+          "year": 1937,
+          "title": "The Hobbit is published",
+          "category": "Culture",
+          "fact": "J. R. R. Tolkien introduces readers to Bilbo Baggins.",
+          "source": "https://en.wikipedia.org/wiki/The_Hobbit",
+          "label": "The Hobbit is published"
+        },
+        {
+          "id": "moon",
+          "year": 1969,
+          "title": "Apollo 11 lands on the Moon",
+          "category": "Space",
+          "fact": "Neil Armstrong and Buzz Aldrin walk on the lunar surface.",
+          "source": "https://en.wikipedia.org/wiki/Apollo_11",
+          "label": "Apollo 11 lands on the Moon"
+        },
+        {
+          "id": "higgs",
+          "year": 2012,
+          "title": "Discovery of a Higgs-like boson is announced",
+          "category": "Science",
+          "fact": "CERN announces a new particle consistent with the Higgs boson.",
+          "source": "https://en.wikipedia.org/wiki/Higgs_boson",
+          "label": "A Higgs-like boson is discovered"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-29",
+      "events": [
+        {
+          "id": "neptune",
+          "year": 1846,
+          "title": "Neptune is identified as a planet",
+          "category": "Science",
+          "fact": "Johann Galle observes the planet near the position predicted by Urbain Le Verrier.",
+          "source": "https://en.wikipedia.org/wiki/Discovery_of_Neptune",
+          "label": "Neptune is discovered"
+        },
+        {
+          "id": "titanic",
+          "year": 1912,
+          "title": "The Titanic sinks",
+          "category": "World",
+          "fact": "The ocean liner strikes an iceberg during its maiden voyage.",
+          "source": "https://en.wikipedia.org/wiki/Sinking_of_the_Titanic",
+          "label": "The Titanic sinks"
+        },
+        {
+          "id": "prc",
+          "year": 1949,
+          "title": "The People’s Republic of China is proclaimed",
+          "category": "World",
+          "fact": "Mao Zedong announces the founding of the new state in Beijing on October 1.",
+          "source": "https://en.wikipedia.org/wiki/Proclamation_of_the_People%27s_Republic_of_China",
+          "label": "People’s Republic of China begins"
+        },
+        {
+          "id": "shuttle",
+          "year": 1981,
+          "title": "The Space Shuttle makes its first orbital flight",
+          "category": "Space",
+          "fact": "Columbia launches on mission STS-1.",
+          "source": "https://en.wikipedia.org/wiki/STS-1",
+          "label": "First Space Shuttle orbital flight"
+        },
+        {
+          "id": "mandela",
+          "year": 1994,
+          "title": "Nelson Mandela becomes South Africa’s president",
+          "category": "World",
+          "fact": "He is inaugurated after South Africa’s first national election with universal adult suffrage.",
+          "source": "https://en.wikipedia.org/wiki/Presidency_of_Nelson_Mandela",
+          "label": "Mandela becomes president"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-30",
+      "events": [
+        {
+          "id": "redcross",
+          "year": 1863,
+          "title": "The Red Cross committee is founded",
+          "category": "World",
+          "fact": "A committee forms in Geneva to improve care for wounded soldiers; it becomes the ICRC.",
+          "source": "https://en.wikipedia.org/wiki/International_Committee_of_the_Red_Cross",
+          "label": "The Red Cross committee forms"
+        },
+        {
+          "id": "voyager",
+          "year": 1977,
+          "title": "Voyager 1 launches",
+          "category": "Space",
+          "fact": "NASA launches the spacecraft toward Jupiter and Saturn; it later travels into interstellar space.",
+          "source": "https://en.wikipedia.org/wiki/Voyager_1",
+          "label": "Voyager 1 launches"
+        },
+        {
+          "id": "web",
+          "year": 1991,
+          "title": "The first website becomes publicly available",
+          "category": "Invention",
+          "fact": "Tim Berners-Lee shares the World Wide Web project with the public.",
+          "source": "https://en.wikipedia.org/wiki/History_of_the_World_Wide_Web",
+          "label": "The first website goes public"
+        },
+        {
+          "id": "pokemon",
+          "year": 1996,
+          "title": "The first Pokémon games launch in Japan",
+          "category": "Culture",
+          "fact": "Pocket Monsters Red and Green arrive on the Game Boy, beginning the Pokémon game series.",
+          "source": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Red,_Blue,_and_Yellow",
+          "label": "The first Pokémon games launch"
+        },
+        {
+          "id": "rosetta",
+          "year": 2014,
+          "title": "Philae lands on a comet",
+          "category": "Space",
+          "fact": "Rosetta’s lander touches down on comet 67P, the first landing on a comet’s nucleus.",
+          "source": "https://en.wikipedia.org/wiki/Philae_(spacecraft)",
+          "label": "Philae lands on a comet"
+        }
+      ]
+    }
+  ]
+}

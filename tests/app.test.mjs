@@ -3,7 +3,9 @@ import assert from 'node:assert/strict';
 import {dayKey,makePuzzle} from '../dist/engine.js';
 import {resultRows} from '../dist/results.js';
 // A small DOM adapter checks the actual UI event handlers without browser automation.
-test('UI: all tiles/spaces, staged changes, undo, final-only years, and persisted score',async()=>{
+test('UI: curated daily, all tiles/spaces, undo, final-only years, persistence, and mobile sharing',async t=>{
+ const RealDate=Date;globalThis.Date=class extends RealDate{constructor(...args){super(...(args.length?args:['2026-09-16T12:00:00Z']));}static now(){return RealDate.parse('2026-09-16T12:00:00Z');}};
+ t.after(()=>{globalThis.Date=RealDate;});
  const nodes=new Map(),registered=new Map(),stored=new Map();let copied='';
  const node=key=>{if(!nodes.has(key))nodes.set(key,{innerHTML:'',textContent:'',handlers:{},classList:{add(){},remove(){}},addEventListener(event,fn){this.handlers[event]=fn;},focus(){},scrollIntoView(){},showModal(){this.open=true;},close(){this.open=false;}});return nodes.get(key);};
  globalThis.document={querySelector:node,addEventListener(){},modelContext:{registerTool(tool){registered.set(tool.name,tool);}}};
@@ -41,6 +43,13 @@ test('UI: all tiles/spaces, staged changes, undo, final-only years, and persiste
  const emojiGrid=resultRows(submitted).map(row=>row.comparisons.map(c=>c.correct?'🟩':'🟧').join('')).join('\n');
  assert.ok(copied.includes('Daily history puzzle'));
  assert.ok(copied.includes(emojiGrid));assert.ok(copied.endsWith('https://example.com/timeline/'));
+ const expectedShare=copied;let shared;
+ navigator.share=async data=>{shared=data;};copied='';await click({id:'share'});
+ assert.equal(shared.text,expectedShare);assert.equal(shared.title,'Timeline — Daily history puzzle');assert.equal(copied,'');
+ navigator.share=async()=>{throw Object.assign(new Error('Cancelled'),{name:'AbortError'});};await click({id:'share'});assert.equal(copied,'');
+ navigator.share=async()=>{throw new Error('Unavailable');};await click({id:'share'});assert.equal(copied,expectedShare);
+ navigator.clipboard.writeText=async()=>{throw new Error('Denied');};node('#share-text').select=()=>{};await click({id:'share'});
+ assert.equal(node('#share-text').value,expectedShare);assert.equal(node('#modal').open,true);delete navigator.share;
  assert.throws(()=>registered.get('submit_timeline').execute());
  await click({dataset:{view:'correct'}});assert.ok(html().includes('Your position: 5'));
  await click({dataset:{mode:'practice'}});assert.equal(read().submitted,false);assert.ok(read().slots.every(x=>x===null));

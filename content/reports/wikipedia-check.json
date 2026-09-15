@@ -1,0 +1,1055 @@
+{
+  "checkedAt": "2026-09-15T02:43:30.212Z",
+  "note": "HTTP success and year presence are automated checks, not proof of historical accuracy. Review excerpts against the specific milestone before publishing.",
+  "results": [
+    {
+      "id": "bastille",
+      "year": 1789,
+      "source": "https://en.wikipedia.org/wiki/Storming_of_the_Bastille",
+      "resolvedURL": "https://en.wikipedia.org/wiki/Storming_of_the_Bastille",
+      "status": 200,
+      "ok": true,
+      "title": "Storming of the Bastille - Wikipedia",
+      "excerpts": [
+        "ng of the Bastille Part of the French Revolution Contemporary painting of the storming Date 14 July 1789 ; 237 years ago ( 1789-07-14 ) Location Paris , Kingdom of France 48°51′11″N 2°22′09″E / 48.85306°N 2.36917°E / 48.85306; 2.36917 Result Insurgent victory Bastille captured Prison",
+        "də la bastij ] ), also known as Fall of the Bastille , which occurred in Paris , France, on 14 July 1789, was an act of political violence by revolutionary insurgents who attempted to storm and seize control of the medieval armoury , fortress, and political prison known as the Bastil",
+        "ure loans by presenting the monarchy as wealthy. This only added to Louis' financial woes. On 5 May 1789, the Estates General convened to deal with the issue but were held back by archaic protocols and the conservatism of the Second Estate , representing the nobility , [ 4 ] which ma"
+      ]
+    },
+    {
+      "id": "beagle",
+      "year": 1831,
+      "source": "https://en.wikipedia.org/wiki/Second_voyage_of_HMS_Beagle",
+      "resolvedURL": "https://en.wikipedia.org/wiki/Second_voyage_of_HMS_Beagle",
+      "status": 200,
+      "ok": true,
+      "title": "Second voyage of HMS Beagle - Wikipedia",
+      "excerpts": [
+        "ebar hide From Wikipedia, the free encyclopedia Scientific survey mission, carrying Charles Darwin (1831–1836) Second voyage of HMS Beagle Beagle at Ponsonby Sound in the Beagle Channel , Tierra del Fuego, in March 1834; painting by the ship's draughtsman Conrad Martens . Leader Robe",
+        "rt FitzRoy Start 27 December 1831 ( 1831-12-27 ) End 2 October 1836 ( 1836-10-02 ) Goal Survey South American coast Ships HMS Beagle Achievements Research leading to Darwin's theory of evolution Route The second survey e",
+        "xpedition of HMS Beagle took place from 27 December 1831 to 2 October 1836. Robert FitzRoy , the newest commander of Beagle , had thought of the advantages of having someone onboard who could investigate geology , and sought a naturalis"
+      ]
+    },
+    {
+      "id": "bell",
+      "year": 1876,
+      "source": "https://en.wikipedia.org/wiki/Alexander_Graham_Bell",
+      "resolvedURL": "https://en.wikipedia.org/wiki/Alexander_Graham_Bell",
+      "status": 200,
+      "ok": true,
+      "title": "Alexander Graham Bell - Wikipedia",
+      "excerpts": [
+        "ich eventually culminated in his being awarded the first U.S. patent for the telephone, on March 7, 1876. [ N 2 ] Bell considered his invention an intrusion on his real work as a scientist and refused to have a telephone in his study. [ 9 ] [ N 3 ] Many other inventions marked Bell's",
+        "ously patented elsewhere). [ 84 ] Alexander Graham Bell's telephone patent [ 85 ] drawing, March 7, 1876 Meanwhile, Elisha Gray was also experimenting with acoustic telegraphy and thought of a way to transmit speech using a water transmitter. On February 14, 1876, Gray filed a caveat",
+        ". Bell was in Boston on February 14 and did not arrive in Washington until February 26. On March 7, 1876, the U.S. Patent Office issued Bell patent 174,465. It covered \"the method of, and apparatus for, transmitting vocal or other sounds telegraphically ... by causing electrical undu"
+      ]
+    },
+    {
+      "id": "blackhole",
+      "year": 2019,
+      "source": "https://en.wikipedia.org/wiki/Event_Horizon_Telescope",
+      "resolvedURL": "https://en.wikipedia.org/wiki/Event_Horizon_Telescope",
+      "status": 200,
+      "ok": true,
+      "title": "Event Horizon Telescope - Wikipedia",
+      "excerpts": [
+        "black hole, at the center of galaxy Messier 87, was published by the EHT Collaboration on April 10, 2019, in a series of six scientific publications. [ 12 ] The array made this observation at a wavelength of 1.3 mm and with a theoretical diffraction-limited resolution of 25 microarcs",
+        "laboration announced its first results in six simultaneous press conferences worldwide on April 10, 2019. [ 25 ] [ 26 ] [ 27 ] The announcement featured the first direct image of a black hole, which showed the supermassive black hole at the center of Messier 87 , designated M87*. [ 2",
+        " . Bibcode : 2009astro2010S..68D . 1 2 3 4 5 6 The Event Horizon Telescope Collaboration (April 10, 2019). \"First M87 Event Horizon Telescope Results. I. The Shadow of the Supermassive Black Hole\" . The Astrophysical Journal Letters . 875 (1): L1. arXiv : 1906.11238 . Bibcode : 2019A"
+      ]
+    },
+    {
+      "id": "bullet",
+      "year": 1964,
+      "source": "https://en.wikipedia.org/wiki/T%C5%8Dkaid%C5%8D_Shinkansen",
+      "resolvedURL": "https://en.wikipedia.org/wiki/T%C5%8Dkaid%C5%8D_Shinkansen",
+      "status": 200,
+      "ok": true,
+      "title": "Tokaido Shinkansen - Wikipedia",
+      "excerpts": [
+        "Osaka Rolling stock N700A N700S Daily ridership 460,000 ( JFY 2024) [ 1 ] History Opened October 1, 1964 ; 61 years ago ( 1964-10-01 ) Technical Line length 515.4 km (320.3 mi) Number of tracks 2 Track gauge 1,435 mm ( 4 ft 8 + 1 ⁄ 2 in ) standard gauge Electrification Overhead line ",
+        " line is owned and operated by the Central Japan Railway Company (JR Central). Opened on October 1, 1964, shortly before the 1964 Summer Olympics in Tokyo, it was the first railway in the world built for regular operation at speeds above 200 km/h (120 mph) and became the model for la",
+        "trol . A test route near Kamonomiya opened in June 1962, and full-line test operation began in July 1964. [ 9 ] [ 10 ] The initial cost estimate proved too low, and Sogō and Shima resigned before the project was completed. On May 2, 1961 the World Bank lent JNR US$80 million, about 1"
+      ]
+    },
+    {
+      "id": "columbus",
+      "year": 1492,
+      "source": "https://en.wikipedia.org/wiki/Voyages_of_Christopher_Columbus",
+      "resolvedURL": "https://en.wikipedia.org/wiki/Voyages_of_Christopher_Columbus",
+      "status": 200,
+      "ok": true,
+      "title": "Voyages of Christopher Columbus - Wikipedia",
+      "excerpts": [
+        "vice 2 Ships Toggle Ships subsection 2.1 Crew 3 History Toggle History subsection 3.1 First voyage (1492–1493) 3.1.1 First landing in the Americas 3.1.2 Exploration through the Antilles 3.1.3 First return 3.2 Second voyage (1493–1496) 3.2.1 Lesser Antilles and Puerto Rico 3.2.2 Hispa",
+        "mons Wikivoyage Wikidata item Appearance move to sidebar hide From Wikipedia, the free encyclopedia 1492–1504 voyages to the Americas Voyages of Christopher Columbus Part of the Age of Discovery The four voyages of Columbus (conjectural) Date First: 3 August 1492 – 4 March 1493 ( 149",
+        "d Castilian crew (among others) Outcome European discovery and colonization of the Americas Between 1492 and 1504, the Italian explorer and navigator Christopher Columbus led four transatlantic maritime expeditions to the Americas in the name of the Catholic Monarchs of Spain . These"
+      ]
+    },
+    {
+      "id": "copernicus",
+      "year": 1543,
+      "source": "https://en.wikipedia.org/wiki/De_revolutionibus_orbium_coelestium",
+      "resolvedURL": "https://en.wikipedia.org/wiki/De_revolutionibus_orbium_coelestium",
+      "status": 200,
+      "ok": true,
+      "title": "De revolutionibus orbium coelestium - Wikipedia",
+      "excerpts": [
+        "kimedia Commons Wikidata item Appearance move to sidebar hide From Wikipedia, the free encyclopedia 1543 book by Copernicus describing his heliocentric theory of the universe De revolutionibus orbium coelestium Original 1543 Nuremberg edition Author Nicolaus Copernicus Language Latin",
+        " Subject Astronomy Publisher Johannes Petreius Publication date 1543 Publication place Nuremberg , Holy Roman Empire Pages 405 Original text De revolutionibus orbium coelestium at Latin Wikisource De revolutionibus orbium coelestium ( On the Revolu",
+        "nal work on the heliocentric theory [ citation needed ] of the astronomer Nicolaus Copernicus (1473–1543 CE). The book, first printed in 1543 CE in Nuremberg , Holy Roman Empire , offered an alternative model of the universe to Ptolemy 's geocentric system , which had been widely acc"
+      ]
+    },
+    {
+      "id": "darwin",
+      "year": 1859,
+      "source": "https://en.wikipedia.org/wiki/On_the_Origin_of_Species",
+      "resolvedURL": "https://en.wikipedia.org/wiki/On_the_Origin_of_Species",
+      "status": 200,
+      "ok": true,
+      "title": "On the Origin of Species - Wikipedia",
+      "excerpts": [
+        "uote Wikisource Wikidata item Appearance move to sidebar hide From Wikipedia, the free encyclopedia 1859 book on evolution by Charles Darwin \"Origin of Species\" and \"Origin of the species\" redirect here. For other uses, see Origin of Species (disambiguation) . On the Origin of Specie",
+        "s Title page of the 1859 edition [ 1 ] Author Charles Darwin Language English Subject Natural selection Evolutionary biology Published 24 November 1859 [ 2 ] ( John Murray ) Publication place United Kingd",
+        "n that is considered to be the foundation of evolutionary biology . It was published on 24 November 1859. [ 4 ] Darwin's book introduced the scientific theory that populations evolve over the course of generations through a process of natural selection , although Lamarckism was also "
+      ]
+    },
+    {
+      "id": "declaration",
+      "year": 1776,
+      "source": "https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence",
+      "resolvedURL": "https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence",
+      "status": 200,
+      "ok": true,
+      "title": "United States Declaration of Independence - Wikipedia",
+      "excerpts": [
+        "uote Wikisource Wikidata item Appearance move to sidebar hide From Wikipedia, the free encyclopedia 1776 American national founding document United States Declaration of Independence The 1823 facsimile of Timothy Matlack 's engrossed copy of the Declaration of Independence Created Ju",
+        "ne–July 1776 Ratified July 4, 1776 ; 250 years ago ( 1776-07-04 ) Location Engrossed copy: National Archives Building Rough draft: Library of Congress Author(s) Thomas Jefferson , Committee of Five Signatories 56 delegates to the Second ",
+        " thirteen united States of America on the document directed to be engrossed by Congress on July 19, 1776, is the founding document of the United States . On July 4, 1776, it was adopted unanimously by the Second Continental Congress , who were convened at the Pennsylvania State House"
+      ]
+    },
+    {
+      "id": "disney",
+      "year": 1955,
+      "source": "https://en.wikipedia.org/wiki/Disneyland",
+      "resolvedURL": "https://en.wikipedia.org/wiki/Disneyland",
+      "status": 200,
+      "ok": true,
+      "title": "Disneyland - Wikipedia",
+      "excerpts": [
+        "s Coordinates 33°49′N 117°55′W / 33.81°N 117.92°W / 33.81; -117.92 Status Operating Opened July 17, 1955 ; 71 years ago ( 1955-07-17 ) Owner Disney Experiences ( The Walt Disney Company ) Operated by Disneyland Resort Theme Disney characters and fairy tales Slogan The happiest place ",
+        "only one designed and constructed under the direct supervision of Walt Disney , opening on July 17, 1955. [ 1 ] Disney initially envisioned building a tourist attraction adjacent to his studios in Burbank to entertain fans who wished to visit; however, he soon realized that the propo",
+        "park was dedicated during a special televised press event on the ABC Television Network on July 17, 1955, a day before its public opening. The design and construction of Disneyland has been credited with revolutionizing the theme park industry and pioneering several features that wou"
+      ]
+    },
+    {
+      "id": "dolly",
+      "year": 1996,
+      "source": "https://en.wikipedia.org/wiki/Dolly_(sheep)",
+      "resolvedURL": "https://en.wikipedia.org/wiki/Dolly_(sheep)",
+      "status": 200,
+      "ok": true,
+      "title": "Dolly (sheep) - Wikipedia",
+      "excerpts": [
+        "ata item Appearance move to sidebar hide From Wikipedia, the free encyclopedia First cloned mammal (1996–2003) Dolly Dolly with her firstborn lamb, Bonnie Other name 6LLS (code name) Species Domestic sheep ( Finn-Dorset ) Sex Female Born ( 1996-07-05 ) 5 July 1996 Roslin Institute , ",
+        "wins Sally and Rosie; triplets Lucy, Darcy and Cotton) Named after Dolly Parton [ 1 ] Dolly (5 July 1996 – 14 February 2003) was a female Finn-Dorset sheep and the first mammal that was cloned from an adult somatic cell . She was cloned by associates of the Roslin Institute in Scotla",
+        "ing was provided by PPL Therapeutics and the Ministry of Agriculture . [ 8 ] She was born on 5 July 1996. [ 6 ] She has been called \"the world's most famous sheep\" by sources including BBC News and Scientific American . [ 9 ] [ 10 ] The cell used as the donor for the cloning of Dolly"
+      ]
+    },
+    {
+      "id": "earhart",
+      "year": 1932,
+      "source": "https://en.wikipedia.org/wiki/Amelia_Earhart",
+      "resolvedURL": "https://en.wikipedia.org/wiki/Amelia_Earhart",
+      "status": 200,
+      "ok": true,
+      "title": "Amelia Earhart - Wikipedia",
+      "excerpts": [
+        "ting aviation 2.5 Competitive flying 2.6 Marriage to George Putnam 2.7 Transatlantic solo flight in 1932 2.8 Additional solo flights 2.9 Move from New York to California 3 World flight in 1937 Toggle World flight in 1937 subsection 3.1 Planning 3.2 Abandoned first attempt 3.3 Second ",
+        " of early flight. In 1928, she was the first female passenger to cross the Atlantic by airplane. In 1932, she became the first woman to make a nonstop solo transatlantic flight, and was awarded the Distinguished Flying Cross for her achievement. [ 2 ] She was one of the first aviator",
+        " perceptions of women in aviation and paved the way for her subsequent solo transatlantic flight in 1932. Earhart later authored a book about the flight, 20 Hrs. 40 Min.: Our Flight in the Friendship , with the title referencing the duration of the transatlantic journey. However, acc"
+      ]
+    },
+    {
+      "id": "eiffel",
+      "year": 1889,
+      "source": "https://en.wikipedia.org/wiki/Eiffel_Tower",
+      "resolvedURL": "https://en.wikipedia.org/wiki/Eiffel_Tower",
+      "status": 200,
+      "ok": true,
+      "title": "Eiffel Tower - Wikipedia",
+      "excerpts": [
+        "Toggle History subsection 1.1 Origin 1.2 Artists' protest 1.3 Construction 1.4 Inauguration and the 1889 exposition 1.5 Subsequent events 2 Design Toggle Design subsection 2.1 Material 2.2 Wind and weather considerations 2.3 Floors 2.3.1 Ground floor 2.3.2 1st floor 2.3.3 2nd floor 2",
+        "amp de Mars , 2009 Interactive map of the Eiffel Tower area Record height Tallest in the world from 1889 to 1930 [I] Preceded by Washington Monument Surpassed by Chrysler Building General information Type Observation tower Broadcasting tower Location 7th arrondissement of Paris , Fra",
+        "22; 2.294500 Construction started 28 January 1887 ; 139 years ago ( 1887-01-28 ) Completed 31 March 1889 ; 137 years ago ( 1889-03-31 ) [ 1 ] Opening 15 May 1889 ; 137 years ago ( 1889-05-15 ) [ 1 ] Owner City of Paris , France Operator Société d'Exploitation de la Tour Eiffel (SETE)"
+      ]
+    },
+    {
+      "id": "everest",
+      "year": 1953,
+      "source": "https://en.wikipedia.org/wiki/1953_British_Mount_Everest_expedition",
+      "resolvedURL": "https://en.wikipedia.org/wiki/1953_British_Mount_Everest_expedition",
+      "status": 200,
+      "ok": true,
+      "title": "1953 British Mount Everest expedition - Wikipedia",
+      "excerpts": [
+        " 1953 British Mount Everest expedition - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia C",
+        " Notes 7 References 8 Bibliography 9 Further reading 10 External links Toggle the table of contents 1953 British Mount Everest expedition 15 languages Bosanski Català Deutsch Español فارسی Français עברית 한국어 Polski Română Русский Srpskohrvatski / српскохрватски Simple English Svenska",
+        "the free encyclopedia First successful ascent of Mount Everest Edmund Hillary and Tenzing Norgay in 1953 The 1953 British Mount Everest expedition was the ninth mountaineering expedition to attempt the first ascent of Mount Everest , and the first confirmed to have succeeded when Ten"
+      ]
+    },
+    {
+      "id": "exhibition",
+      "year": 1851,
+      "source": "https://en.wikipedia.org/wiki/Great_Exhibition",
+      "resolvedURL": "https://en.wikipedia.org/wiki/Great_Exhibition",
+      "status": 200,
+      "ok": true,
+      "title": "Great Exhibition - Wikipedia",
+      "excerpts": [
+        "51.50306°N 0.17000°W / 51.50306; -0.17000 From Wikipedia, the free encyclopedia 1st world's fair in 1851 in London, England 1851 London The Great Exhibition 1851 Overview BIE -class Universal exposition Category Historical Expo Name 1851 London Building(s) The Crystal Palace Area 10.",
+        "don Coordinates 51°30′11″N 0°10′12″W / 51.50306°N 0.17000°W / 51.50306; -0.17000 Timeline Opening ( 1851-05-01 ) ( 1851-10-15 ) May 1 – October 15, 1851 (5 months and 2 weeks) Closure 15 October 1851 ; 174 years ago ( 1851-10-15 ) Universal expositions Next Exposition Universelle in ",
+        "), was an international exhibition that took place in Hyde Park , London , from 1 May to 15 October 1851. It was the first in a series of world's fairs , exhibitions of culture and industry that became popular in the 19th century. The event was organised by Henry Cole and Albert , Pr"
+      ]
+    },
+    {
+      "id": "fire",
+      "year": 1666,
+      "source": "https://en.wikipedia.org/wiki/Great_Fire_of_London",
+      "resolvedURL": "https://en.wikipedia.org/wiki/Great_Fire_of_London",
+      "status": 200,
+      "ok": true,
+      "title": "Great Fire of London - Wikipedia",
+      "excerpts": [
+        "accepted version of this page This is the latest accepted revision , reviewed on 5 September 2026 . 1666 conflagration in England This article is about the 1666 fire. For other \"Great Fires\", see List of historic fires . For other notable fires in London, see Early fires of London an",
+        "uld have appeared from a boat in the vicinity of Tower Wharf on the evening of Tuesday, 4 September 1666. To the left is London Bridge ; to the right, the Tower of London . Old St Paul's Cathedral is in the distance, surrounded by the tallest flames. Central London in 1666, with the ",
+        "th a green line) The Great Fire of London occurred from Sunday 2 September to Wednesday 5 September 1666, [ b ] gutting the medieval City of London inside the old Roman city wall , while also extending past the wall to the west. The death toll is generally thought to have been relati"
+      ]
+    },
+    {
+      "id": "flight",
+      "year": 1903,
+      "source": "https://en.wikipedia.org/wiki/Wright_brothers",
+      "resolvedURL": "https://en.wikipedia.org/wiki/Wright_brothers",
+      "status": 200,
+      "ok": true,
+      "title": "Wright brothers - Wikipedia",
+      "excerpts": [
+        "tained flight of an engine-powered, heavier-than-air aircraft with the Wright Flyer on December 17, 1903, four miles (6 km) south of Kitty Hawk, North Carolina , at what is now known as Kill Devil Hills . In 1904 the Wright brothers developed the Wright Flyer II , which made longer-d",
+        "rplanes of all kinds. [ 4 ] [ 5 ] [ 6 ] [ 7 ] [ 8 ] [ 9 ] Their first U.S. patent, written in March 1903, before their first flight at Kitty Hawk, did not claim invention of a flying machine, but rather a system of aerodynamic control that manipulated a flying machine's surfaces. [ 1",
+        "in the bicycle business in various ways. [ 15 ] From 1900 until their first powered flights in late 1903, the brothers conducted extensive glider tests that also developed their skills as pilots. Their shop mechanic Charles Taylor became an important part of the team, building their "
+      ]
+    },
+    {
+      "id": "folio",
+      "year": 1623,
+      "source": "https://en.wikipedia.org/wiki/First_Folio",
+      "resolvedURL": "https://en.wikipedia.org/wiki/First_Folio",
+      "status": 200,
+      "ok": true,
+      "title": "First Folio - Wikipedia",
+      "excerpts": [
+        "kimedia Commons Wikidata item Appearance move to sidebar hide From Wikipedia, the free encyclopedia 1623 collection of William Shakespeare's plays Mr. William Shakespeare's Comedies, Histories, & Tragedies Title page of the first impression (1623) Author William Shakespeare Cover art",
+        " English Renaissance theatre Publisher Edward Blount and William and Isaac Jaggard Publication date 1623 Publication place England Pages c. 900 Text Mr. William Shakespeare's Comedies, Histories, & Tragedies at Wikisource Mr. William Shakespeare's Comedies, Histories, & Tragedies is ",
+        "lliam Shakespeare , commonly referred to by modern scholars as the First Folio , [ a ] published in 1623, about seven years after Shakespeare's death. It is considered one of the most influential books ever published. [ 1 ] Printed in folio format and containing 36 of Shakespeare's p"
+      ]
+    },
+    {
+      "id": "frankenstein",
+      "year": 1818,
+      "source": "https://en.wikipedia.org/wiki/Frankenstein",
+      "resolvedURL": "https://en.wikipedia.org/wiki/Frankenstein",
+      "status": 200,
+      "ok": true,
+      "title": "Frankenstein - Wikipedia",
+      "excerpts": [
+        " 11 References 12 Sources 13 Further reading Toggle Further reading subsection 13.1 Editions 13.1.1 1818 text 13.1.2 1831 text 13.2 Differences between 1818 and 1831 text 14 External links Toggle the table of contents Frankenstein 75 languages Afrikaans العربية অসমীয়া Asturianu Kota",
+        "accepted version of this page This is the latest accepted revision , reviewed on 6 September 2026 . 1818 novel by Mary Shelley This article is about the novel by Mary Shelley. For the titular character, see Victor Frankenstein . For the monster, see Frankenstein's monster . For other",
+        "ein (disambiguation) . Frankenstein; or, The Modern Prometheus Title page of Vol. I, first edition, 1818 Author Mary Shelley Language English Genre Gothic novel , science fiction [ 1 ] Set in England, Ireland , Italy, France, Scotland, Old Swiss Confederacy , Russian Empire , Holy Ro"
+      ]
+    },
+    {
+      "id": "gagarin",
+      "year": 1961,
+      "source": "https://en.wikipedia.org/wiki/Vostok_1",
+      "resolvedURL": "https://en.wikipedia.org/wiki/Vostok_1",
+      "status": 200,
+      "ok": true,
+      "title": "Vostok 1 - Wikipedia",
+      "excerpts": [
+        "Backup 2.2 Reserve 3 Preparations Toggle Preparations subsection 3.1 Automatic control 3.2 11 April 1961 3.3 Gagarin statement before the mission 4 Flight Toggle Flight subsection 4.1 Launch 4.2 Time in orbit 5 Reentry and landing 6 Reactions and legacy Toggle Reactions and legacy su",
+        "paceflight in history Vostok 1 Launch of Vostok 1 Operator Soviet space program Harvard designation 1961 Mu 1 COSPAR ID 1961-012A SATCAT no. 00103 Mission duration 1 hour, 48 minutes [ 1 ] 1 hour, 46 minutes [ 2 ] [ 3 ] Spacecraft properties Spacecraft Vostok-3KA No.3 Manufacturer Ex",
+        "), [ 4 ] : 275 or Ласточка ( Lastochka , ' Swallow ' ) [ a ] Start of mission Launch date April 12, 1961, 06:07 ( 1961-04-12UTC06:07Z ) UTC [ 8 ] Rocket Vostok-K 8K72K Launch site Baikonur , Site 1/5 45°55′13″N 63°20′32″E / 45.920278°N 63.342222°E / 45.920278; 63.342222 [ 9 ] End of "
+      ]
+    },
+    {
+      "id": "hastings",
+      "year": 1066,
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Hastings",
+      "resolvedURL": "https://en.wikipedia.org/wiki/Battle_of_Hastings",
+      "status": 200,
+      "ok": true,
+      "title": "Battle of Hastings - Wikipedia",
+      "excerpts": [
+        "ce move to sidebar hide From Wikipedia, the free encyclopedia Battle between English and Normans in 1066 For other uses, see Battle of Hastings (disambiguation) . Battle of Hastings Part of the Norman Conquest Harold rex interfectus est : \"King Harold is killed\". Scene from the Bayeu",
+        "x Tapestry depicting the Battle of Hastings and the death of Harold. Date 14 October 1066 Location Hailesaltede , near Hastings , Sussex, England (today Battle, East Sussex , England) Result Norman victory Belligerents Duchy of Normandy Kingdom of England Commanders an",
+        "Site of the Battle of Hastings in East Sussex The Battle of Hastings [ a ] was fought on 14 October 1066 between the Norman-French army of William, Duke of Normandy , and an English army under the Anglo-Saxon King Harold Godwinson , beginning the Norman Conquest of England . It took "
+      ]
+    },
+    {
+      "id": "higgs",
+      "year": 2012,
+      "source": "https://en.wikipedia.org/wiki/Higgs_boson",
+      "resolvedURL": "https://en.wikipedia.org/wiki/Higgs_boson",
+      "status": 200,
+      "ok": true,
+      "title": "Higgs boson - Wikipedia",
+      "excerpts": [
+        "ation 3.1.1 Summary and impact of the PRL papers 3.2 Experimental search 3.2.1 Search before 4 July 2012 3.2.2 Discovery of candidate boson at CERN 3.2.3 New particle tested as a possible Higgs boson 3.2.4 Confirmation of existence and status 3.2.5 Findings since 2013 4 Theoretical i",
+        "ation. After a 40-year search , a subatomic particle with the expected properties was discovered in 2012 by the ATLAS and CMS experiments at the Large Hadron Collider (LHC) at CERN near Geneva , Switzerland. The new particle was subsequently confirmed to match the expected properties",
+        " 29 ] in an attempt to create Higgs bosons and other particles for observation and study. On 4 July 2012, the discovery of a new particle with a mass between 125 and 127 GeV/ c 2 was announced; physicists suspected that it was the Higgs boson. [ 30 ] [ k ] [ 31 ] [ 32 ] Since then, t"
+      ]
+    },
+    {
+      "id": "hobbit",
+      "year": 1937,
+      "source": "https://en.wikipedia.org/wiki/The_Hobbit",
+      "resolvedURL": "https://en.wikipedia.org/wiki/The_Hobbit",
+      "status": 200,
+      "ok": true,
+      "title": "The Hobbit - Wikipedia",
+      "excerpts": [
+        "mmons Wikiquote Wikidata item Appearance move to sidebar hide From Wikipedia, the free encyclopedia 1937 book by J. R. R. Tolkien This article is about the children's book. For other uses, see Hobbit (disambiguation) . \"There and Back Again\" redirects here. For other uses, see There ",
+        "and Back Again (disambiguation) . The Hobbit, or There and Back Again Cover of the 1937 first edition, from a drawing by Tolkien Author J. R. R. Tolkien Illustrator J. R. R. Tolkien Cover artist J. R. R. Tolkien Language English Genre High fantasy Children's fantasy ",
+        "Set in Middle-earth Publisher George Allen & Unwin (UK) Publication date 21 September 1937 Publication place United Kingdom Pages 310 (first edition) OCLC 1827184 LC Class PR6039.O32 H63 Followed by The Lord of the Rings The Hobbit, or There and Back Again is a children"
+      ]
+    },
+    {
+      "id": "hubble",
+      "year": 1990,
+      "source": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope",
+      "resolvedURL": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope",
+      "status": 200,
+      "ok": true,
+      "title": "Hubble Space Telescope - Wikipedia",
+      "excerpts": [
+        "nce move to sidebar hide From Wikipedia, the free encyclopedia NASA/ESA space telescope launched in 1990 \"Hubble\" redirects here. For the astronomer, see Edwin Hubble . For other uses, see Hubble (disambiguation) . Hubble Space Telescope The Hubble Space Telescope during STS-125 Miss",
+        "ion type Astronomy Operator STScI COSPAR ID 1990-037B SATCAT no. 20580 Website science .nasa .gov /mission /hubble Mission duration 36 years, 4 months, 21 days (ongoing) [ 1 ] Spacecraft properties Manufacturer Lockheed Martin (",
+        "Dimensions 13.2 m × 4.2 m (43 ft × 14 ft) [ 2 ] Power 2800 W Start of mission Launch date April 24, 1990, 12:33:51 UTC [ 3 ] Rocket Space Shuttle Discovery ( STS-31 ) Launch site Kennedy , LC-39B Contractor Rockwell International Deployment date April 25, 1990 [ 2 ] Entered service M"
+      ]
+    },
+    {
+      "id": "india",
+      "year": 1947,
+      "source": "https://en.wikipedia.org/wiki/Indian_Independence_Act_1947",
+      "resolvedURL": "https://en.wikipedia.org/wiki/Indian_Independence_Act_1947",
+      "status": 200,
+      "ok": true,
+      "title": "Indian Independence Act 1947 - Wikipedia",
+      "excerpts": [
+        " Indian Independence Act 1947 - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn t",
+        "ee also 8 Notes 9 References 10 External links Toggle the table of contents Indian Independence Act 1947 24 languages অসমীয়া Azərbaycanca Беларуская বাংলা Čeština Deutsch فارسی Français हिन्दी Bahasa Indonesia ქართული ಕನ್ನಡ മലയാളം मराठी Nederlands ਪੰਜਾਬੀ پنجابی Русский Simple Englis",
+        "ikipedia, the free encyclopedia Act of the Parliament of the United Kingdom Indian Independence Act 1947 [ a ] Act of Parliament Parliament of the United Kingdom Long title An Act to make provision for the setting up in India of two independent dominion states, to substitute other pr"
+      ]
+    },
+    {
+      "id": "insulin",
+      "year": 1922,
+      "source": "https://en.wikipedia.org/wiki/Insulin_(medication)",
+      "resolvedURL": "https://en.wikipedia.org/wiki/Insulin_(medication)",
+      "status": 200,
+      "ok": true,
+      "title": "Insulin (medication) - Wikipedia",
+      "excerpts": [
+        "ed to induce hypoglycemia in a rabbit. This was set by James Collip at the University of Toronto in 1922. Of course, this was dependent on the size and diet of the rabbits. The unit of insulin was set by the insulin committee at the University of Toronto. [ 55 ] The unit evolved even",
+        " [ edit ] Insulin was first used as a medication in Canada by Charles Best and Frederick Banting in 1922. [ 87 ] [ 88 ] This is a chronology of key milestones in the history of the medical use of insulin. For more details on the discovery, extraction, purification, clinical use, and ",
+        " of insulin, see Insulin 1921 Research on the role of pancreas in the nutritive assimilation [ 89 ] 1922 Frederick Banting , Charles Best and James Collip use bovine insulin extract in humans at Connaught Laboratories in Toronto, Canada. [ 87 ] 1922 Leonard Thompson becomes the first"
+      ]
+    },
+    {
+      "id": "iphone",
+      "year": 2007,
+      "source": "https://en.wikipedia.org/wiki/IPhone_(1st_generation)",
+      "resolvedURL": "https://en.wikipedia.org/wiki/IPhone_(1st_generation)",
+      "status": 200,
+      "ok": true,
+      "title": "iPhone (1st generation) - Wikipedia",
+      "excerpts": [
+        "kimedia Commons Wikidata item Appearance move to sidebar hide From Wikipedia, the free encyclopedia 2007 smartphone by Apple This article is about the first-generation iPhone. For the product line, see iPhone . \"iPhone 2G\" redirects here; not to be confused with iPhone 3G . iPhone De",
+        "turer Foxconn ( contract manufacturer ) [ 1 ] Type Smartphone Series iPhone First released June 29, 2007 ; 19 years ago ( 2007-06-29 ) Discontinued July 11, 2008 ; 18 years ago ( 2008-07-11 ) Units sold 6,124,000 Successor iPhone 3G Form factor Slate Dimensions 115 × 61 × 11.6 mm (4.",
+        "sensor Microphone Headset controls Website Apple – iPhone at the Wayback Machine (archived June 29, 2007) This article is part of a series on the iPhone 1st generation 3G 3GS 4 4s 5 5c 5s 6 / 6 Plus 6s / 6s Plus 7 / 7 Plus 8 / 8 Plus X XR XS / XS Max 11 11 Pro / 11 Pro Max 12 / 12 Mi"
+      ]
+    },
+    {
+      "id": "liberty",
+      "year": 1886,
+      "source": "https://en.wikipedia.org/wiki/Statue_of_Liberty",
+      "resolvedURL": "https://en.wikipedia.org/wiki/Statue_of_Liberty",
+      "status": 200,
+      "ok": true,
+      "title": "Statue of Liberty - Wikipedia",
+      "excerpts": [
+        "tion 2 After dedication Toggle After dedication subsection 2.1 Lighthouse Board and War Department (1886–1933) 2.2 Early National Park Service years (1933–1982) 2.3 Renovation and rededication (1982–2000) 2.4 Closures and reopenings (2001–present) 3 Access and attributes Toggle Acces",
+        "°W / 40.68917; -74.04444 Location Liberty Island New York City , U.S. History Dedicated October 28, 1886 ; 139 years ago ( October 28, 1886 ) Site notes Height Height of copper statue (to torch): 151 feet 1 inch (46 meters) From ground level to torch: 305 feet 1 inch (93 meters) Scul",
+        "rtholdi , and its metal framework built by Gustave Eiffel . The statue was dedicated on October 28, 1886. The statue is a figure of a classically draped woman, [ 8 ] inspired by the Roman goddess of liberty , Libertas . [ 9 ] She holds a torch above her head with her right hand, and "
+      ]
+    },
+    {
+      "id": "luther",
+      "year": 1517,
+      "source": "https://en.wikipedia.org/wiki/Ninety-five_Theses",
+      "resolvedURL": "https://en.wikipedia.org/wiki/Ninety-five_Theses",
+      "status": 200,
+      "ok": true,
+      "title": "Ninety-five Theses - Wikipedia",
+      "excerpts": [
+        "Wikipedia, the free encyclopedia Disputation by Martin Luther on indulgences Ninety-five Theses The 1517 Nuremberg printing of Ninety-five Theses , now housed at the Berlin State Library Author Martin Luther Original title Disputatio pro declaratione virtutis indulgentiarum [ a ] Lan",
+        "guage Latin Publication date 31 October 1517 Publication place Electorate of Saxony , Holy Roman Empire Original text Disputatio pro declaratione virtutis indulgentiarum [ a ] at Latin Wikisource Translation Ninety-five Thes",
+        " and Efficacy of Indulgences [ a ] is a list of propositions for an academic disputation written in 1517 by Martin Luther , then a professor of moral theology at the University of Wittenberg , Germany. [ b ] The Theses are retrospectively considered to have launched the Protestant Re"
+      ]
+    },
+    {
+      "id": "magellan",
+      "year": 1522,
+      "source": "https://en.wikipedia.org/wiki/Magellan_expedition",
+      "resolvedURL": "https://en.wikipedia.org/wiki/Magellan_expedition",
+      "status": 200,
+      "ok": true,
+      "title": "Magellan expedition - Wikipedia",
+      "excerpts": [
+        "de Barrameda 20 September 1519 ; 506 years ago ( 1519-09-20 ) End Sanlúcar de Barrameda 6 September 1522 ; 504 years ago ( 1522-09-06 ) Goal Find a western maritime route to the Spice Islands Ships Trinidad San Antonio Concepción Victoria Santiago Crew Approx. 270 Survivors 18 return",
+        "esent-day Indonesia . [ 3 ] [ 2 ] [ 4 ] The expedition departed Spain in 1519 and returned there in 1522 under the command of Elcano, who continued the voyage after Magellan's death in the Philippines . [ 4 ] One of the most significant voyages in the Age of Discovery , the nearly th",
+        "uccas in November 1521. A much-depleted crew led by Elcano finally returned to Spain on 6 September 1522, [ 2 ] having sailed west across the Indian Ocean , around the Cape of Good Hope through waters controlled by the Portuguese, and north along the west African coast to finally arr"
+      ]
+    },
+    {
+      "id": "magna",
+      "year": 1215,
+      "source": "https://en.wikipedia.org/wiki/Magna_Carta",
+      "resolvedURL": "https://en.wikipedia.org/wiki/Magna_Carta",
+      "status": 200,
+      "ok": true,
+      "title": "Magna Carta - Wikipedia",
+      "excerpts": [
+        " (Top) 1 History Toggle History subsection 1.1 13th century 1.1.1 Background 1.1.2 Great Charter of 1215 1.1.2.1 Charters of the Welsh Princes 1.1.2.1.1 Counsellors named in Magna Carta 1.1.2.1.2 The Council of Twenty-Five Barons 1.1.2.1.3 Excommunicated rebels 1.1.3 Great Charter of",
+        " 800th anniversary 2 Copies Toggle Copies subsection 2.1 Physical format 2.2 Exemplifications 2.2.1 1215 exemplifications 2.2.2 Later exemplifications 3 Clauses Toggle Clauses subsection 3.1 Clauses in detail 3.2 Clauses remaining in English law 3.3 Clauses in force in other countrie",
+        "ance move to sidebar hide From Wikipedia, the free encyclopedia English charter of freedoms made in 1215 This article is about the English charter of 1215. For other uses, see Magna Carta (disambiguation) . Magna Carta Cotton MS. Augustus II. 106 , one of four surviving exemplificati"
+      ]
+    },
+    {
+      "id": "mandela",
+      "year": 1994,
+      "source": "https://en.wikipedia.org/wiki/Presidency_of_Nelson_Mandela",
+      "resolvedURL": "https://en.wikipedia.org/wiki/Presidency_of_Nelson_Mandela",
+      "status": 200,
+      "ok": true,
+      "title": "Presidency of Nelson Mandela - Wikipedia",
+      "excerpts": [
+        "o sidebar hide From Wikipedia, the free encyclopedia South African presidential administration from 1994 to 1999 This article is about Nelson Mandela's tenure as president of South Africa. For his tenure as president of the African National Congress, see Nelson Mandela § End of apart",
+        "heid and elections . Mandela in 1994 Presidency of Nelson Mandela 10 May 1994 – 14 June 1999 President Nelson Mandela Cabinet Cabinet of Nelson Mandela Party African National Congress Election 1994 Seat Mahlamba Ndlopfu , Pretoria Genadendal Residence , Cap",
+        "al \" I Am Prepared to Die \" Negotiations to end apartheid in South Africa President of South Africa 1994 election Government of National Unity Reconstruction and Development Programme Truth and Reconciliation Commission Constitution of South Africa 1995 Rugby World Cup Intervention i"
+      ]
+    },
+    {
+      "id": "moon",
+      "year": 1969,
+      "source": "https://en.wikipedia.org/wiki/Apollo_11",
+      "resolvedURL": "https://en.wikipedia.org/wiki/Apollo_11",
+      "status": 200,
+      "ok": true,
+      "title": "Apollo 11 - Wikipedia",
+      "excerpts": [
+        "em Appearance move to sidebar hide From Wikipedia, the free encyclopedia First crewed Moon landing (1969) \"First Moon landing\" and \"The Moon landing\" redirect here. For other crewed or uncrewed Moon landings, see Moon landing . This article is about the 1969 crewed lunar mission. For",
+        "agle , and the U.S. flag [ 1 ] Mission type Crewed lunar landing ( G ) Operator NASA COSPAR ID CSM: 1969-059A LM: 1969-059C SATCAT no. CSM: 4039 [ 2 ] LM: 4041 [ 3 ] Mission duration 8 days, 3 hours, 18 minutes, 35 seconds Spacecraft properties Spacecraft Apollo CSM -107 Apollo LM -5",
+        "Callsign CSM: Columbia LM: Eagle On surface: Tranquility Base Start of mission Launch date July 16, 1969, 13:32:00 ( 1969-07-16UTC13:32Z ) UTC (9:32:00 am EDT ) [ 6 ] Rocket Saturn V SA-506 Launch site Kennedy , LC ‑ 39A End of mission Recovered by USS Hornet Landing date July 24, 19"
+      ]
+    },
+    {
+      "id": "neptune",
+      "year": 1846,
+      "source": "https://en.wikipedia.org/wiki/Discovery_of_Neptune",
+      "resolvedURL": "https://en.wikipedia.org/wiki/Discovery_of_Neptune",
+      "status": 200,
+      "ok": true,
+      "title": "Discovery of Neptune - Wikipedia",
+      "excerpts": [
+        "observations 2 Irregularities in orbit of Uranus 3 The search 4 Discovery observation: 24 September 1846 5 Aftermath 6 Later analysis 7 Beyond Neptune 8 Neptune discovery telescope 9 See also 10 Further reading 11 References 12 Bibliography 13 External links Toggle the table of conte",
+        " other projects Wikidata item Appearance move to sidebar hide From Wikipedia, the free encyclopedia 1846 discovery of Neptune through mathematically-predicted observation New Berlin Observatory at Linden Street, where Neptune was discovered observationally. Neptune as imaged by the V",
+        "ming the existence of a major planet were made on the night of September 23–24, autumnal equinox of 1846, [ 1 ] at the Berlin Observatory , by astronomer Johann Gottfried Galle (assisted by Heinrich Louis d'Arrest ), working from Le Verrier's calculations. It was a sensational moment"
+      ]
+    },
+    {
+      "id": "newton",
+      "year": 1687,
+      "source": "https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica",
+      "resolvedURL": "https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica",
+      "status": 200,
+      "ok": true,
+      "title": "Philosophiæ Naturalis Principia Mathematica - Wikipedia",
+      "excerpts": [
+        "uote Wikisource Wikidata item Appearance move to sidebar hide From Wikipedia, the free encyclopedia 1687 work by Isaac Newton For Whitehead and Russell's work, see Principia Mathematica . Philosophiæ Naturalis Principia Mathematica Title page of Principia , first edition (1687) Autho",
+        "r Isaac Newton Language Neo-Latin Publication date 1687 Publication place England Published in English 1728 LC Class QA803 .A53 Original text Philosophiæ Naturalis Principia Mathematica at Latin Wikisource Translation Philosophiæ Natur",
+        "matur ) by Samuel Pepys , then-president of the Royal Society on 5 July 1686 and first published in 1687. [ 2 ] [ 3 ] After annotating and correcting his personal copy of the first edition, [ 4 ] Newton published two further editions, one of 1713 [ 5 ] with errors in the 1687 version"
+      ]
+    },
+    {
+      "id": "nobel",
+      "year": 1901,
+      "source": "https://en.wikipedia.org/wiki/Nobel_Prize",
+      "resolvedURL": "https://en.wikipedia.org/wiki/Nobel_Prize",
+      "status": 200,
+      "ok": true,
+      "title": "Nobel Prize - Wikipedia",
+      "excerpts": [
+        "y award of 11 million SEK (approx. US$1.035 million as of 2023) [ 2 ] [ 3 ] First award 10 December 1901 ; 124 years ago ( 1901-12-10 ) Number of laureates 627 prizes awarded to 1,012 individuals and organizations (as of 2024 [ update ] ) [ 2 ] Website nobelprize.org The Nobel Prizes",
+        "nce with the principle of \"for the greatest benefit to humankind\". The prizes were first awarded in 1901, marking the fifth anniversary of Alfred Nobel 's death. [ 2 ] The original Nobel Prizes covered five fields: physics , chemistry , physiology or medicine , literature , and peace",
+        " if a person is awarded a prize and dies before receiving it, the prize is presented. [ 9 ] Between 1901 and 2024, the five Nobel Prizes and the Prize in Economic Sciences (since 1969) were awarded 627 times to 1,012 people and organisations. [ 10 ] Five individuals and two organisat"
+      ]
+    },
+    {
+      "id": "nzvote",
+      "year": 1893,
+      "source": "https://en.wikipedia.org/wiki/Women%27s_suffrage_in_New_Zealand",
+      "resolvedURL": "https://en.wikipedia.org/wiki/Women%27s_suffrage_in_New_Zealand",
+      "status": 200,
+      "ok": true,
+      "title": "Women's suffrage in New Zealand - Wikipedia",
+      "excerpts": [
+        "l bill granting women the franchise was given royal assent by Governor Lord Glasgow on 19 September 1893. [ 2 ] Women voted for the first time in the election held on 28 November 1893 (elections for the Māori electorates were held on 20 December). Also in 1893, Elizabeth Yates became",
+        " were delivered in 1891, followed by a petition of almost 20,000 signatures in 1892, and finally in 1893 nearly 32,000 signatures were presented – almost a quarter of the adult European female population of New Zealand. [ 16 ] An 1893 cartoon depicting William Rolleston urging women ",
+        "t the bill. This tactic infuriated the suffragist Catherine Fulton , who organised a protest at the 1893 election . [ 18 ] An 1892 Electoral Bill, supported by John Ballance , would have provided for the enfranchisement of all women, but was delayed due to Ballance believing \"the maj"
+      ]
+    },
+    {
+      "id": "olympics",
+      "year": 1896,
+      "source": "https://en.wikipedia.org/wiki/1896_Summer_Olympics",
+      "resolvedURL": "https://en.wikipedia.org/wiki/1896_Summer_Olympics",
+      "status": 200,
+      "ok": true,
+      "title": "1896 Summer Olympics - Wikipedia",
+      "excerpts": [
+        " 1896 Summer Olympics - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contrib",
+        "tes 11 References 12 Bibliography 13 Further reading 14 External links Toggle the table of contents 1896 Summer Olympics 96 languages Аԥсшәа Afrikaans Aragonés العربية مصرى Asturianu Azərbaycanca Basa Bali Bikol Central Беларуская (тарашкевіца) Беларуская Български বাংলা Bosanski Cat",
+        "ia Multi-sport event in Athens, Greece Games of the I Olympiad Cover of the official report for the 1896 Summer Olympics Location Athens , Greece Nations 14 [note1] Athletes 241 (all men) [note2] Events 43 in 9 sports (10 disciplines) Opening Gregorian Calendar : 6 April 1896 Julian "
+      ]
+    },
+    {
+      "id": "pacman",
+      "year": 1980,
+      "source": "https://en.wikipedia.org/wiki/Pac-Man",
+      "resolvedURL": "https://en.wikipedia.org/wiki/Pac-Man",
+      "status": 200,
+      "ok": true,
+      "title": "Pac-Man - Wikipedia",
+      "excerpts": [
+        "kimedia Commons Wikidata item Appearance move to sidebar hide From Wikipedia, the free encyclopedia 1980 video game This article is about the video game. For the character, see Pac-Man (character) . For the series of games, see Pac-Man (franchise) . For other uses, see Pac-Man (disam",
+        "biguation) . 1980 video game Pac-Man North American arcade flyer Developer Namco Publishers JP / DE : Namco [ 1 ] NA / FRA : Midway Manufacturing [ 2 ] Designer Toru Iwatani Programmers Shigeo Funa",
+        "Boy Advance , iPod Touch , Xbox 360 , PlayStation 4 , Xbox One , iOS , Android Release JP : May 22, 1980 [ 4 ] US : October 1980 [ 4 ] Genre Maze Modes Single-player , multiplayer Pac-Man , originally titled Puck Man [ a ] in Japan, is a 1980 maze video game developed and published b"
+      ]
+    },
+    {
+      "id": "panama",
+      "year": 1914,
+      "source": "https://en.wikipedia.org/wiki/Panama_Canal",
+      "resolvedURL": "https://en.wikipedia.org/wiki/Panama_Canal",
+      "status": 200,
+      "ok": true,
+      "title": "Panama Canal - Wikipedia",
+      "excerpts": [
+        "s, 1881–1899 1.3 United States acquisition 1.4 United States construction of the Panama canal, 1904–1914 1.5 Goethals replaces Stevens as chief engineer, 1907–1914 1.6 US control and handover to Panama, 1914–1999 1.7 21st century 1.7.1 Trump Administration comments and reactions 2 Ca",
+        "190.0 ft) Locks 3 locks up, 3 down per transit; all three lanes (3 lanes of locks) Status Opened in 1914 ; 112 years ago ( 1914 ) ; expansion opened 26 June 2016 Navigation authority Panama Canal Authority History Principal engineer Armand Reclus and Gaston Blanchet (1881–1882), Jule",
+        " John Findley Wallace (1904–1905), John Frank Stevens (1905–1907), George Washington Goethals (1907–1914) Construction began 1 January 1881 ( 1881-01-01 ) Date completed 15 August 1914 ( 1914-08-15 ) Date extended 26 June 2016 ( 2016-06-26 ) Geography Start point Caribbean Sea (part "
+      ]
+    },
+    {
+      "id": "penicillin",
+      "year": 1928,
+      "source": "https://en.wikipedia.org/wiki/Penicillin",
+      "resolvedURL": "https://en.wikipedia.org/wiki/Penicillin",
+      "status": 200,
+      "ok": true,
+      "title": "Penicillin - Wikipedia",
+      "excerpts": [
+        " because the immunoglobulin E (IgE) cross-reactivity is only 3%. [ 5 ] Penicillin was discovered in 1928 by the Scottish physician Alexander Fleming as a crude extract of P. rubens . [ 6 ] Fleming's student Cecil George Paine was the first to successfully use penicillin to treat eye ",
+        "e bacteria are very susceptible to penicillin (as first evidenced by the discovery of penicillin in 1928 [ 10 ] [ page needed ] [ clarification needed ] [ improper synthesis? ] ). [ 46 ] Penicillin, or any other molecule, enters gram-negative bacteria in a different manner. The bacte",
+        "usions for this reason. [ 61 ] Resistance When Alexander Fleming discovered the crude penicillin in 1928, one important observation he made was that many bacteria were not affected by penicillin. [ 10 ] This phenomenon was realised by Ernst Chain and Edward Abraham while trying to id"
+      ]
+    },
+    {
+      "id": "periodic",
+      "year": 1869,
+      "source": "https://en.wikipedia.org/wiki/Dmitri_Mendeleev",
+      "resolvedURL": "https://en.wikipedia.org/wiki/Dmitri_Mendeleev",
+      "status": 200,
+      "ok": true,
+      "title": "Dmitri Mendeleev - Wikipedia",
+      "excerpts": [
+        "s 18-column 32-column Alternative and extended forms Periodic table history D. Mendeleev 1871 table 1869 predictions Discovery of elements Naming and etymology for people for places controversies ( in East Asia ) Systematic element names Sets of elements By periodic table structure G",
+        "s pattern, Mendeleev developed his extended version of the periodic table. [ 34 ] [ 35 ] On 6 March 1869, he made a formal presentation to the Russian Chemical Society, titled The Dependence between the Properties of the Atomic Weights of the Elements , which described elements accor",
+        "al expression of the commonly used chemical periodic table was reportedly envisioned in a dream. In 1869, Dmitri Mendeleev claimed to have had a dream in which he envisioned a table in which all the chemical elements were arranged according to their atomic weight.\" ↑ Kotz, John; Trei"
+      ]
+    },
+    {
+      "id": "pluto",
+      "year": 2015,
+      "source": "https://en.wikipedia.org/wiki/New_Horizons",
+      "resolvedURL": "https://en.wikipedia.org/wiki/New_Horizons",
+      "status": 200,
+      "ok": true,
+      "title": "New Horizons - Wikipedia",
+      "excerpts": [
+        "8, 2007, 05:43:40 UTC Distance 2,300,000 km (1,400,000 mi) Flyby of Pluto Closest approach July 14, 2015, 11:49:57 UTC Distance 12,500 km (7,800 mi) Flyby of Charon (moon) Closest approach July 14, 2015, 12:02:22 UTC Distance 29,431 km (18,288 mi) Flyby of 486958 Arrokoth Closest app",
+        " brought back online for the Pluto encounter, and instrument check-out began. [ 13 ] On January 15, 2015, the spacecraft began its approach phase to Pluto. On July 14, 2015, at 11:49 UTC , it flew 12,500 km (7,800 mi) above the surface of Pluto, [ 14 ] [ 15 ] which at the time was 34",
+        "g the spacecraft and its instruments, with a planned launch in January 2006 and arrival at Pluto in 2015. [ 33 ] Alice Bowman became Mission Operations Manager (MOM). [ 38 ] Mission profile [ edit ] An artist's impression of New Horizons ' close encounter with the Plutonian system Ne"
+      ]
+    },
+    {
+      "id": "pokemon",
+      "year": 1996,
+      "source": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Red,_Blue,_and_Yellow",
+      "resolvedURL": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Red,_Blue,_and_Yellow",
+      "status": 200,
+      "ok": true,
+      "title": "Pokémon Red, Blue, and Yellow - Wikipedia",
+      "excerpts": [
+        "books Wikiquote Wikidata item Appearance move to sidebar hide From Wikipedia, the free encyclopedia 1996 video games 1996 video game Pokémon Red Version Pokémon Blue Version Pokémon Yellow Version North American cover art for Pokémon Red (left), Pokémon Blue (center), and Pokémon Yel",
+        "chi Masuda Series Pokémon Platform Game Boy Release Pocket Monsters Red and Green JP : February 27, 1996 Pocket Monsters Blue JP : October 15, 1996 ( CoroCoro Comic ) JP : October 10, 1999 ( retail ) Pokémon Red and Blue NA : September 28, 1998 AU : October 23, 1998 EU : October 5, 1",
+        "nre Role-playing Modes Single-player , multiplayer Pokémon Red Version and Pokémon Blue Version are 1996 role-playing video games (RPGs) developed by Game Freak and published by Nintendo for the Game Boy . They are the first installments of the Pokémon video game series and were firs"
+      ]
+    },
+    {
+      "id": "pong",
+      "year": 1972,
+      "source": "https://en.wikipedia.org/wiki/Pong",
+      "resolvedURL": "https://en.wikipedia.org/wiki/Pong",
+      "status": 200,
+      "ok": true,
+      "title": "Pong - Wikipedia",
+      "excerpts": [
+        "kimedia Commons Wikidata item Appearance move to sidebar hide From Wikipedia, the free encyclopedia 1972 video game For other uses, see Pong (disambiguation) . 1972 video game Pong An upright cabinet of Pong on display at the Neville Public Museum of Brown County Developer Atari, Inc",
+        "i, Inc. Designer Allan Alcorn Platforms Arcade , dedicated console Release Arcade NA : November 29, 1972 JP : November 1973 [ 1 ] EU : 1973 [ 2 ] Home version October 1975 [ 3 ] Genre Sports Modes Single-player , multiplayer Pong is a 1972 sports video game developed and published by",
+        " was in direct response to Bushnell's viewing of the Magnavox Odyssey 's Tennis game. [ 12 ] In May 1972, Bushnell had visited the Magnavox Profit Caravan in Burlingame, California where he played the Magnavox Odyssey demonstration, specifically the table tennis game. [ 15 ] [ 16 ] T"
+      ]
+    },
+    {
+      "id": "prc",
+      "year": 1949,
+      "source": "https://en.wikipedia.org/wiki/Proclamation_of_the_People%27s_Republic_of_China",
+      "resolvedURL": "https://en.wikipedia.org/wiki/Proclamation_of_the_People%27s_Republic_of_China",
+      "status": 200,
+      "ok": true,
+      "title": "Proclamation of the People's Republic of China - Wikipedia",
+      "excerpts": [
+        "st Revolution Mao Zedong proclaiming the foundation of the People's Republic of China on October 1, 1949 Native name 中华人民共和国开国大典 English name Founding Ceremony of the People's Republic of China Date October 1, 1949 ; 76 years ago ( 1949-10-01 ) Venue Tiananmen Square Location Beijing",
+        "he Victory North Park Commune inspection v t e History of the People's Republic of China Chronology 1949–1976 (Mao era) Revolution Land Reform Movement Proclamation Korean War Campaign to Suppress Counterrevolutionaries Three-anti and Five-anti Campaigns First five-year plan Five Pri",
+        "ina portal v t e History of the Republic of China Culture Economy Education Geography Politics 1912–1949 Mainland rule Conflicts 1911 Revolution Second Revolution National Protection War Warlord Era Constitutional Protection Movement Northern Expedition Central Plains War Chinese Civ"
+      ]
+    },
+    {
+      "id": "pride",
+      "year": 1813,
+      "source": "https://en.wikipedia.org/wiki/Pride_and_Prejudice",
+      "resolvedURL": "https://en.wikipedia.org/wiki/Pride_and_Prejudice",
+      "status": 200,
+      "ok": true,
+      "title": "Pride and Prejudice - Wikipedia",
+      "excerpts": [
+        "uote Wikisource Wikidata item Appearance move to sidebar hide From Wikipedia, the free encyclopedia 1813 novel by Jane Austen This article is about the novel. For other uses, see Pride and Prejudice (disambiguation) . Pride and Prejudice Title page of the first edition, 1813 Author J",
+        "n Hertfordshire Derbyshire Kent London Publisher T. Egerton , Whitehall Publication date 28 January 1813 Publication place United Kingdom Media type Print (hardback, 3 volumes), digitalized OCLC 38659585 Dewey Decimal 823.7 LC Class PR4034 .P7 Preceded by Sense and Sensibility Follow",
+        "d 20–21, it was her third novel written and became the second to see print when it was published in 1813. A novel of manners , it follows the character development of Elizabeth Bennet , the protagonist of the book, who learns about the repercussions of hasty judgments and comes to ap"
+      ]
+    },
+    {
+      "id": "rail",
+      "year": 1825,
+      "source": "https://en.wikipedia.org/wiki/Stockton_and_Darlington_Railway",
+      "resolvedURL": "https://en.wikipedia.org/wiki/Stockton_and_Darlington_Railway",
+      "status": 200,
+      "ok": true,
+      "title": "Stockton and Darlington Railway - Wikipedia",
+      "excerpts": [
+        "item Appearance move to sidebar hide From Wikipedia, the free encyclopedia English railway company, 1825 to 1863 \"S&DR\" redirects here. For the railway between Bath and Bournemouth, see Somerset and Dorset Joint Railway . Stockton and Darlington Railway Map of the original planned ro",
+        "gural train cross the Skerne Bridge in Darlington. Overview Locale County Durham Dates of operation 1825 – 1863 Successor North Eastern Railway The Stockton and Darlington Railway ( S&DR ) was a railway company that operated in north-east England from 1825 to 1863. The world's first ",
+        "ar Shildon with Darlington and Stockton in County Durham, and was officially opened on 27 September 1825. The movement of coal to ships rapidly became a lucrative business, and the line was soon extended to a new port at Middlesbrough . While coal waggons were hauled by steam locomot"
+      ]
+    },
+    {
+      "id": "redcross",
+      "year": 1863,
+      "source": "https://en.wikipedia.org/wiki/International_Committee_of_the_Red_Cross",
+      "resolvedURL": "https://en.wikipedia.org/wiki/International_Committee_of_the_Red_Cross",
+      "status": 200,
+      "ok": true,
+      "title": "International Committee of the Red Cross - Wikipedia",
+      "excerpts": [
+        "s Comité international de la Croix-Rouge Comité Internacional de la Cruz Roja Formation 17 February 1863 ; 163 years ago ( 1863-02-17 ) Founder Henry Dunant Type Humanitarian aid organization Headquarters Geneva , Switzerland Coordinates 46°13′40″N 6°8′14″E / 46.22778°N 6.13722°E / 4",
+        "s medics and field hospitals. Original document of the first Geneva Convention , 1864 On 9 February 1863, the Geneva Society for Public Welfare held a meeting where it was decided to give serious consideration to the suggestions made in Dunant's book and appointed five of its members",
+        "emorandum on these matters for submission to the Welfare Congress to be held in Berlin in September 1863. The members of this Sub-committee, aside from Dunant himself, were Gustave Moynier , lawyer and chairman of the Geneva Society for Public Welfare; physician Louis Appia , who had"
+      ]
+    },
+    {
+      "id": "rosetta",
+      "year": 2014,
+      "source": "https://en.wikipedia.org/wiki/Philae_(spacecraft)",
+      "resolvedURL": "https://en.wikipedia.org/wiki/Philae_(spacecraft)",
+      "status": 200,
+      "ok": true,
+      "title": "Philae (spacecraft) - Wikipedia",
+      "excerpts": [
+        "2004-006C Website www .esa .int /rosetta Mission duration Planned: 1–6 weeks Active: 12–14 November 2014 Hibernation: 15 November 2014 – 13 June 2015 Spacecraft properties Manufacturer CNES DLR ASI Launch mass 100 kg (220 lb) [ 1 ] Payload mass 21 kg (46 lb) [ 1 ] Dimensions 1 × 1 × ",
+        "ly 2015, 18:07 ( 2015-07-09UTC18:08 ) UTC 67P/Churyumov–Gerasimenko lander Landing date 12 November 2014, 17:32 UTC [ 3 ] Landing site Abydos [ 4 ] Instruments APXS Alpha particle x-ray spectrometer CIVA Comet nucleus Infrared and Visible Analyser CONSERT Comet Nucleus Sounding Exper",
+        "Gerasimenko , ten years and eight months after departing Earth. [ 10 ] [ 11 ] [ 12 ] On 12 November 2014, Philae touched down on the comet, but it bounced when its anchoring harpoons failed to deploy and a thruster designed to hold the probe to the surface did not fire. [ 13 ] After "
+      ]
+    },
+    {
+      "id": "rubik",
+      "year": 1974,
+      "source": "https://en.wikipedia.org/wiki/Rubik%27s_Cube",
+      "resolvedURL": "https://en.wikipedia.org/wiki/Rubik%27s_Cube",
+      "status": 200,
+      "ok": true,
+      "title": "Rubik's Cube - Wikipedia",
+      "excerpts": [
+        "ed Rubik's Cube The Rubik's Cube ( Hungarian : Rubik-kocka ) is a 3D combination puzzle invented in 1974 [ 2 ] [ 3 ] by Hungarian sculptor and professor of architecture Ernő Rubik . Originally called the Magic Cube (Hungarian: bűvös kocka ), [ 4 ] the puzzle was licensed by Rubik to ",
+        " to be used for the game of noughts and crosses . He received his UK patent (1344259) on 16 January 1974. [ 19 ] Rubik's invention In the mid-1970s, Ernő Rubik worked at the Department of Interior Design at the Academy of Applied Arts and Crafts in Budapest, where he taught courses o"
+      ]
+    },
+    {
+      "id": "shuttle",
+      "year": 1981,
+      "source": "https://en.wikipedia.org/wiki/STS-1",
+      "resolvedURL": "https://en.wikipedia.org/wiki/STS-1",
+      "status": 200,
+      "ok": true,
+      "title": "STS-1 - Wikipedia",
+      "excerpts": [
+        ". For the gene, see STS-1 (gene) . STS-1 STS-1 lifts off from the Kennedy Space Center on April 12, 1981, the first orbital launch of the Space Shuttle program. Names Space Transportation System -1 Mission type Flight test Operator NASA COSPAR ID 1981-034A SATCAT no. 12399 Mission du",
+        " Columbia Crew Crew size 2 Members John Young Robert Crippen Start of mission Launch date April 12, 1981, 12:00:04 ( 1981-04-12UTC12:00:04Z ) UTC (07:00:04 am EST ) Launch site Kennedy , LC-39A Contractor Rockwell International End of mission Landing date April 14, 1981, 18:20:57 ( 1",
+        "spaceflight of NASA 's Space Shuttle program . The first orbiter , Columbia , launched on April 12, 1981, and returned on April 14, 1981, 54.5 hours later, having orbited the Earth 37 times. [ 1 ] Columbia carried a crew of two—commander John W. Young and pilot Robert L. Crippen . It"
+      ]
+    },
+    {
+      "id": "snowwhite",
+      "year": 1937,
+      "source": "https://en.wikipedia.org/wiki/Snow_White_and_the_Seven_Dwarfs_(1937_film)",
+      "resolvedURL": "https://en.wikipedia.org/wiki/Snow_White_and_the_Seven_Dwarfs_(1937_film)",
+      "status": 200,
+      "ok": true,
+      "title": "Snow White and the Seven Dwarfs (1937 film) - Wikipedia",
+      "excerpts": [
+        " Snow White and the Seven Dwarfs (1937 film) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help L",
+        " 10 Further reading 11 External links Toggle the table of contents Snow White and the Seven Dwarfs (1937 film) 112 languages Afrikaans አማርኛ Aragonés العربية مصرى অসমীয়া Asturianu Azərbaycanca Basa Bali Bikol Central Беларуская Български বাংলা Brezhoneg Bosanski Català Нохчийн Cebuan",
+        "mmons Wikiquote Wikidata item Appearance move to sidebar hide From Wikipedia, the free encyclopedia 1937 film by David Hand For the Disney franchise, see Snow White (franchise) . A request that this article title be changed to Snow White and the Seven Dwarfs (film) Snow White and the"
+      ]
+    },
+    {
+      "id": "southpole",
+      "year": 1911,
+      "source": "https://en.wikipedia.org/wiki/Amundsen%27s_South_Pole_expedition",
+      "resolvedURL": "https://en.wikipedia.org/wiki/Amundsen%27s_South_Pole_expedition",
+      "status": 200,
+      "ok": true,
+      "title": "Amundsen's South Pole expedition - Wikipedia",
+      "excerpts": [
+        "Toggle First season, 1910–11 subsection 3.1 Framheim 3.2 Depot journeys 3.3 Winter 4 Second season, 1911–12 Toggle Second season, 1911–12 subsection 4.1 False start 4.2 South Pole journey 4.2.1 Barrier and mountains 4.2.2 March to the pole 4.2.3 Return to Framheim 4.2.4 Informing the",
+        "kimedia Commons Wikidata item Appearance move to sidebar hide From Wikipedia, the free encyclopedia 1911 expedition to the South Pole Amundsen's South Pole expedition Amundsen, Hanssen, Hassel, and Wisting at Polheim at the South Pole Leader Roald Amundsen Start Framheim , Great Ice ",
+        "Barrier 19 October 1911 ( 1911-10-19 ) End Geographic South Pole 14 December 1911 ( 1911-12-14 ) Ships Fram Crew Roald Amundsen Helmer Hanssen Sverre Hassel Oscar Wisting Olav Bjaaland (plus 14 shore crew) Achievements First to reach the South Pole First exploration o"
+      ]
+    },
+    {
+      "id": "sputnik",
+      "year": 1957,
+      "source": "https://en.wikipedia.org/wiki/Sputnik_1",
+      "resolvedURL": "https://en.wikipedia.org/wiki/Sputnik_1",
+      "status": 200,
+      "ok": true,
+      "title": "Sputnik 1 - Wikipedia",
+      "excerpts": [
+        "к-1 Elementary Satellite-1 Mission type Technology demonstration Operator OKB-1 Harvard designation 1957 Alpha 2 [ 1 ] COSPAR ID 1957-001B SATCAT no. 2 [ 2 ] (The launch rocket has SATCAT no.1) Mission duration 22 days (achieved) Orbits completed 1,440 [ 3 ] Spacecraft properties Spa",
+        "6 kg (184 lb) Dimensions 58 cm (23 in) diameter Power 1 watt Start of mission Launch date 4 October 1957 ; 68 years ago ( 4 October 1957 ) , 19:28:34 UTC Rocket Sputnik-PS 8K71PS [ 4 ] Launch site Baikonur Cosmodrome Site 1/5 [ 4 ] Contractor OKB-1 End of mission Disposal Atmospheric",
+        " entry Last contact 26 October 1957 Decay date 4 January 1958 [ 4 ] Orbital parameters Reference system Geocentric orbit [ 5 ] Regime Low Earth orbit Semi-major axis 6,955.2 km Eccentricity 0.05201 Perigee altitude "
+      ]
+    },
+    {
+      "id": "starwars",
+      "year": 1977,
+      "source": "https://en.wikipedia.org/wiki/Star_Wars_(film)",
+      "resolvedURL": "https://en.wikipedia.org/wiki/Star_Wars_(film)",
+      "status": 200,
+      "ok": true,
+      "title": "Star Wars (film) - Wikipedia",
+      "excerpts": [
+        "mmons Wikiquote Wikidata item Appearance move to sidebar hide From Wikipedia, the free encyclopedia 1977 film by George Lucas This article is about the original film. For other films in the franchise, see List of Star Wars films . \"A New Hope\" redirects here. For other uses, see A Ne",
+        "illiams Production company Lucasfilm Ltd. Distributed by Twentieth Century-Fox Release date May 25, 1977 ( 1977-05-25 ) Running time 121 minutes [ 1 ] Country United States [ 2 ] Language English Budget $11 million [ 3 ] [ 4 ] Box office $775.4 million [ 3 ] Star Wars (later retitled",
+        " as Star Wars: Episode IV – A New Hope ) is a 1977 American epic space opera film written and directed by George Lucas . Produced by Lucasfilm Ltd. and distributed by Twentieth Century-Fox , it is the first film in the Star Wars f"
+      ]
+    },
+    {
+      "id": "station",
+      "year": 1998,
+      "source": "https://en.wikipedia.org/wiki/Zarya_(ISS_module)",
+      "resolvedURL": "https://en.wikipedia.org/wiki/Zarya_(ISS_module)",
+      "status": 200,
+      "ok": true,
+      "title": "Zarya (ISS module) - Wikipedia",
+      "excerpts": [
+        "guation) . Zarya Zarya as seen by Space Shuttle Endeavour during STS-88 Module statistics COSPAR ID 1998-067A Part of International Space Station Launch date 20 November 1998, 06:40 UTC Launch vehicle Proton-K Mass 19,323 kg (42,600 lb) [ a ] Length 12.56 m (41.2 ft) Diameter 4.11 m ",
+        "зовой блок ), is the first module of the International Space Station (ISS). Launched on 20 November 1998 atop a Proton-K rocket, the module would serve as the ISS's primary source of power, propulsion, and guidance during its early years. As the ISS expanded, Zarya's role shifted pri",
+        "on the first Energia launch in 1987. [ 7 ] Zarya itself was built between December 1994 and January 1998 at the Khrunichev State Research and Production Space Center in Moscow, funded by a US$ 220 million (equivalent to US$ 480 million in 2025 ) NASA contract, [ 8 ] significantly les"
+      ]
+    },
+    {
+      "id": "stone",
+      "year": 1799,
+      "source": "https://en.wikipedia.org/wiki/Rosetta_Stone",
+      "resolvedURL": "https://en.wikipedia.org/wiki/Rosetta_Stone",
+      "status": 200,
+      "ok": true,
+      "title": "Rosetta Stone - Wikipedia",
+      "excerpts": [
+        " Writing Ancient Egyptian hieroglyphs , Demotic script , and Greek script Created 196 BC Discovered 1799 near Rosetta , Nile Delta, Egypt Discovered by Pierre-François Bouchard Present location British Museum The Rosetta Stone is a stele of granodiorite inscribed with three versions ",
+        "n of Fort Julien near the town of Rashid ( Rosetta ) in the Nile Delta . It was found there in July 1799 by French army officer Pierre-François Bouchard during France's invasion of Egypt . It was the first Ancient Egyptian bilingual text recovered in modern times, and it aroused wide",
+        "r advances in the decoding were recognition that the stone offered three versions of the same text (1799); that the Demotic text used phonetic characters to spell foreign names (1802); that the hieroglyphic text did so as well, and had pervasive similarities to the Demotic (1814); an"
+      ]
+    },
+    {
+      "id": "suez",
+      "year": 1869,
+      "source": "https://en.wikipedia.org/wiki/Suez_Canal",
+      "resolvedURL": "https://en.wikipedia.org/wiki/Suez_Canal",
+      "status": 200,
+      "ok": true,
+      "title": "Suez Canal - Wikipedia",
+      "excerpts": [
+        " 2.2 Construction by the Suez Canal Company 2.2.1 Preparations (1854–1858) 2.2.2 Construction (1859–1869) 2.3 Company towns 2.4 Inauguration (17 November 1869) 2.4.1 Initial difficulties (1869–1871) 2.5 Growth and reorganisation 2.6 Suez Crisis 2.7 Arab–Israeli wars of 1967 and 1973 ",
+        " History Construction began 25 April 1859 ; 167 years ago ( 1859-04-25 ) Date completed 17 November 1869 ; 156 years ago ( 1869-11-17 ) Geography Start point Port Said End point Suez Port The Suez Canal ( / ˈ s uː . ɛ z / ; Egyptian Arabic : قناة السويس , Qanāt as-Suwais ) is an arti",
+        "e Suez for the express purpose of building the canal. Construction of the canal lasted from 1859 to 1869 and it officially opened on 17 November 1869. It offers vessels a direct route between the North Atlantic and northern Indian oceans via the Mediterranean Sea and the Red Sea, avo"
+      ]
+    },
+    {
+      "id": "sydney",
+      "year": 1973,
+      "source": "https://en.wikipedia.org/wiki/Sydney_Opera_House",
+      "resolvedURL": "https://en.wikipedia.org/wiki/Sydney_Opera_House",
+      "status": 200,
+      "ok": true,
+      "title": "Sydney Opera House - Wikipedia",
+      "excerpts": [
+        "re Company The Australian Ballet Construction started 1 March 1959 ( 1959-03-01 ) Opened 20 October 1973 ( 1973-10-20 ) Cost A$102 million , equivalent to A$1082 million in 2022 [ 1 ] Client Government of New South Wales Owner Government of New South Wales Height Height 65 m (213 ft)",
+        "al team headed by Peter Hall , the building was formally opened by Queen Elizabeth II on 20 October 1973, [ 5 ] 16 years after Utzon's 1957 selection as winner of an international design competition. The Government of New South Wales , led by the premier , Joseph Cahill , authorised ",
+        "onstruction of the outer shells, based upon the image of whales breaching the water; stage IV (1967–1973) interior design and construction. [ citation needed ] Stage I: Podium [ edit ] Stage I started on 2 March 1959 with the construction firm Civil & Civic , monitored by the enginee"
+      ]
+    },
+    {
+      "id": "taj",
+      "year": 1648,
+      "source": "https://en.wikipedia.org/wiki/Taj_Mahal",
+      "resolvedURL": "https://en.wikipedia.org/wiki/Taj_Mahal",
+      "status": 200,
+      "ok": true,
+      "title": "Taj Mahal - Wikipedia",
+      "excerpts": [
+        "ardens bounded on three sides by a crenellated wall. Construction of the mausoleum was completed in 1648, although work on other parts of the complex continued for another five years. The first ceremony held at the mausoleum was an observance by Shah Jahan, on 6 February 1643, of the",
+        "ild, Gauhara Begum . [ 13 ] [ 14 ] Construction started in 1632, and the mausoleum was completed in 1648, while the surrounding buildings and garden were finished five years later. [ 15 ] [ 16 ] The imperial court documenting Shah Jahan's grief after the death of Mumtaz Mahal illustr",
+        "niversary of the death of Mumtaz Mahal. [ a ] [ 53 ] Construction of the mausoleum was completed in 1648, but work continued on other phases of the project for another five years. [ 15 ] The Taj Mahal complex is believed to have been completed in 1653 at a cost estimated at the time "
+      ]
+    },
+    {
+      "id": "titanic",
+      "year": 1912,
+      "source": "https://en.wikipedia.org/wiki/Sinking_of_the_Titanic",
+      "resolvedURL": "https://en.wikipedia.org/wiki/Sinking_of_the_Titanic",
+      "status": 200,
+      "ok": true,
+      "title": "Sinking of the Titanic - Wikipedia",
+      "excerpts": [
+        ") 1 Background 2 Ice warnings Toggle Ice warnings subsection 2.1 Response to ice reports 3 14 April 1912 Toggle 14 April 1912 subsection 3.1 Titanic enters Iceberg Alley 3.2 \"Iceberg, right ahead!\" 3.3 Effects of the collision 4 15 April 1912 Toggle 15 April 1912 subsection 4.1 Prepa",
+        "32″N 49°56′49″W / 41.72556°N 49.94694°W / 41.72556; -49.94694 From Wikipedia, the free encyclopedia 1912 maritime disaster For other uses, see Sinking of the Titanic (disambiguation) . Sinking of the Titanic The sinking of the Titanic depicted in a 1912 illustration by Willy Stöwer D",
+        "ate 14–15 April 1912 ; 114 years ago ( 1912-04-15 ) Time 23:40–02:20 (02:38–05:18 GMT ) [ a ] Duration 2 hours and 40 minutes Location North Atlantic Ocean , 370 miles (600 km; 320 nmi) southeast of Newfoundland 41°43′32″N "
+      ]
+    },
+    {
+      "id": "toystory",
+      "year": 1995,
+      "source": "https://en.wikipedia.org/wiki/Toy_Story",
+      "resolvedURL": "https://en.wikipedia.org/wiki/Toy_Story",
+      "status": 200,
+      "ok": true,
+      "title": "Toy Story - Wikipedia",
+      "excerpts": [
+        "mmons Wikiquote Wikidata item Appearance move to sidebar hide From Wikipedia, the free encyclopedia 1995 film by John Lasseter This article is about the 1995 film. For the franchise, see Toy Story (franchise) . For other uses, see Toy Story (disambiguation) . Toy Story Theatrical rel",
+        "Animation Studios Distributed by Buena Vista Pictures Distribution [ a ] Release dates November 19, 1995 ( 1995-11-19 ) ( El Capitan Theatre ) November 22, 1995 ( 1995-11-22 ) (United States) Running time 81 minutes [ 1 ] Country United States Language English Budget $30 million [ 2 ",
+        "] Box office $401.2 million [ 3 ] Toy Story is a 1995 American animated adventure comedy film directed by John Lasseter , and written by Joss Whedon , Andrew Stanton , Joel Cohen , and Alec Sokolow . The first entirely computer-anima"
+      ]
+    },
+    {
+      "id": "tut",
+      "year": 1922,
+      "source": "https://en.wikipedia.org/wiki/Discovery_of_the_tomb_of_Tutankhamun",
+      "resolvedURL": "https://en.wikipedia.org/wiki/Discovery_of_the_tomb_of_Tutankhamun",
+      "status": 200,
+      "ok": true,
+      "title": "Discovery of the tomb of Tutankhamun - Wikipedia",
+      "excerpts": [
+        "ppearance move to sidebar hide From Wikipedia, the free encyclopedia Excavation of Egyptian tomb in 1922 Howard Carter (squatting), Arthur Callender and an Egyptian workman, looking into the opened shrines enclosing Tutankhamun 's sarcophagus in 1924 The tomb of Tutankhamun was disco",
+        "vered in the Valley of the Kings in 1922 by excavators led by the Egyptologist Howard Carter , more than 3,300 years after Tutankhamun's death and burial. Whereas the tombs of most pharaohs were plundered by graverobbers",
+        "ar-intact royal burial from ancient Egypt . [ 1 ] [ 2 ] The tomb was opened beginning on 4 November 1922 during an excavation by Carter and his patron, the 5th Earl of Carnarvon . The burial consisted of more than five thousand objects, many of which were in a highly fragile state, s"
+      ]
+    },
+    {
+      "id": "un",
+      "year": 1945,
+      "source": "https://en.wikipedia.org/wiki/United_Nations",
+      "resolvedURL": "https://en.wikipedia.org/wiki/United_Nations",
+      "status": 200,
+      "ok": true,
+      "title": "United Nations - Wikipedia",
+      "excerpts": [
+        " 1.1 Background (pre-1941) 1.2 Declarations by the Allies of World War II (1941–1944) 1.3 Founding (1945) 1.4 Cold War (1947–1991) 1.5 After the Cold War (1991–1999) 1.6 2020s: financial crisis 2 Structure Toggle Structure subsection 2.1 General Assembly 2.2 Security Council 2.3 UN S",
+        "man • Economic and Social Council President Amar Bendjama Establishment • UN Charter signed 26 June 1945 (81 years ago) ( 1945-06-26 ) • Charter entered into force 24 October 1945 (80 years ago) ( 1945-10-24 ) Website un .org Preceded by League of Nations Part of a series on the Unit",
+        "overnmental organization established by the signing of the Charter of the United Nations on 26 June 1945 with the articulated mission of maintaining international peace and security , to develop friendly relations among states , to promote international cooperation, and to serve as a"
+      ]
+    },
+    {
+      "id": "voyager",
+      "year": 1977,
+      "source": "https://en.wikipedia.org/wiki/Voyager_1",
+      "resolvedURL": "https://en.wikipedia.org/wiki/Voyager_1",
+      "status": 200,
+      "ok": true,
+      "title": "Voyager 1 - Wikipedia",
+      "excerpts": [
+        " Appearance move to sidebar hide From Wikipedia, the free encyclopedia NASA space probe launched in 1977 For other uses, see Voyager 1 (disambiguation) . Voyager 1 Artist's rendering of the Voyager spacecraft Mission type Outer planetary, heliosphere, and interstellar medium explorat",
+        "ion Operator NASA / Jet Propulsion Laboratory COSPAR ID 1977-084A [ 1 ] SATCAT no. 10321 [ 1 ] Website science .nasa .gov /mission /voyager / Mission duration Total : 49 years, 10 days (elapsed) Planetary mission : 3 years, 3 months, 9 days",
+        "ass 721.9 kg (1,592 lb) [ 3 ] Power 470 watts (at launch) Start of mission Launch date September 5, 1977, 12:56:01 ( 1977-09-05UTC12:56:01Z ) UTC Rocket Titan IIIE Launch site Cape Canaveral Launch Complex 41 Flyby of Jupiter Closest approach March 5, 1979 Distance 349,000 km (217,00"
+      ]
+    },
+    {
+      "id": "waitangi",
+      "year": 1840,
+      "source": "https://en.wikipedia.org/wiki/Treaty_of_Waitangi",
+      "resolvedURL": "https://en.wikipedia.org/wiki/Treaty_of_Waitangi",
+      "status": 200,
+      "ok": true,
+      "title": "Treaty of Waitangi - Wikipedia",
+      "excerpts": [
+        "urce Wikisource Wikidata item Appearance move to sidebar hide From Wikipedia, the free encyclopedia 1840 agreement between the British Crown and Māori leaders in New Zealand This article has multiple issues. Please help improve it or discuss these issues on the talk page . ( Learn ho",
+        "nsure Māori would also enjoy equal rights of British subjects in British fora. Drafted 4–5 February 1840 by William Hobson with the help of his secretary, James Freeman, and British Resident James Busby Signed 6 February 1840 Location Waitangi in the Bay of Islands , and various othe",
+        "stic law, its status as international law is debated. [ 1 ] [ 2 ] It was first signed on 6 February 1840 by Captain William Hobson as consul for the Crown and by Māori chiefs ( rangatira ) from the North Island of New Zealand. The treaty's status has clouded the question of whether M"
+      ]
+    },
+    {
+      "id": "wall",
+      "year": 1989,
+      "source": "https://en.wikipedia.org/wiki/Fall_of_the_Berlin_Wall",
+      "resolvedURL": "https://en.wikipedia.org/wiki/Fall_of_the_Berlin_Wall",
+      "status": 200,
+      "ok": true,
+      "title": "Fall of the Berlin Wall - Wikipedia",
+      "excerpts": [
+        "kimedia Commons Wikidata item Appearance move to sidebar hide From Wikipedia, the free encyclopedia 1989 destruction of the Berlin Wall Fall of the Berlin Wall Part of the Revolutions of 1989 and German reunification Germans stand on top of the Wall in front of the Brandenburg Gate ,",
+        "walked through the Gate to greet his East German counterpart. Native name Mauerfall Date 9 November 1989 ; 36 years ago ( 1989-11-09 ) Time 18:53–19:01 ( CET ; UTC+1 , press conference) [ 1 ] Location East Berlin , East Germany West Berlin , West Germany Cause Revolutions of 1989 Par",
+        "is of 1961 \" Ich bin ein Berliner \" (1963) \" Tear down this wall! \" (1987) Fall of the Berlin Wall (1989) Federal Republic of Germany (1990–present) History of Germany and History of Europe See also Timeline of Berlin v t e The Berlin Wall fell on 9 November 1989 during the Peaceful "
+      ]
+    },
+    {
+      "id": "web",
+      "year": 1991,
+      "source": "https://en.wikipedia.org/wiki/History_of_the_World_Wide_Web",
+      "resolvedURL": "https://en.wikipedia.org/wiki/History_of_the_World_Wide_Web",
+      "status": 200,
+      "ok": true,
+      "title": "History of the World Wide Web - Wikipedia",
+      "excerpts": [
+        "Top) 1 Background Toggle Background subsection 1.1 Precursors 1.2 ENQUIRE 1.3 Return to CERN 2 1989–1991: Origins Toggle 1989–1991: Origins subsection 2.1 CERN 3 1991–1994: The Web goes public, early growth Toggle 1991–1994: The Web goes public, early growth subsection 3.1 Initial la",
+        "rmatting protocol, called Hypertext Markup Language (HTML). After publishing the markup language in 1991, and releasing the browser source code for public use in 1993, many other web browsers were soon developed, with Marc Andreessen 's Mosaic (later Netscape Navigator ) being partic",
+        "or online services such as e-mail , [ 17 ] and BITNET was also another popular network. [ 18 ] 1989–1991: Origins [ edit ] CERN [ edit ] The NeXT Computer used by Tim Berners-Lee at CERN became the first Web server. The corridor where the World Wide Web was born, on the ground floor "
+      ]
+    },
+    {
+      "id": "webb",
+      "year": 2021,
+      "source": "https://en.wikipedia.org/wiki/James_Webb_Space_Telescope",
+      "resolvedURL": "https://en.wikipedia.org/wiki/James_Webb_Space_Telescope",
+      "status": 200,
+      "ok": true,
+      "title": "James Webb Space Telescope - Wikipedia",
+      "excerpts": [
+        "o 2003) 3.2 Early development and replanning (2003–2007) 3.3 Detailed design and construction (2007–2021) 3.4 Cost and schedule issues 3.5 Partnership 3.6 Naming concerns 4 Mission goals Toggle Mission goals subsection 4.1 Orbit design 4.2 Infrared astronomy 5 Ground support and oper",
+        "idebar hide From Wikipedia, the free encyclopedia NASA/ESA/CSA space infrared telescope launched in 2021 James Webb Space Telescope Rendering of the fully deployed James Webb Space Telescope Names Next Generation Space Telescope (NGST; 1996–2002) James Webb Space Telescope (JWST; 200",
+        "2–present) Mission type Astronomy Operator STScI ( NASA ) [ 1 ] / ESA / CSA COSPAR ID 2021-130A SATCAT no. 50463 Website jwst .nasa .gov webbtelescope .org Mission duration 4 years, 8 months, 20 days (elapsed) 5 + 1 ⁄ 2 years (primary mission) [ 2 ] 10 years (planned) 2"
+      ]
+    },
+    {
+      "id": "wiki",
+      "year": 2001,
+      "source": "https://en.wikipedia.org/wiki/Wikipedia",
+      "resolvedURL": "https://en.wikipedia.org/wiki/Wikipedia",
+      "status": 200,
+      "ok": true,
+      "title": "Wikipedia - Wikipedia",
+      "excerpts": [
+        "al No Registration Optional [ c ] Users 135 million (as of September 15, 2026) Launched January 15, 2001 (25 years ago) ( 2001-01-15 ) Current status Active Content license Creative Commons Attribution-ShareAlike 4.0 [ d ] OCLC number 52075003 Wikipedia [ e ] is a free online encyclo",
+        "ugh open collaboration and the wiki software MediaWiki . Founded by Jimmy Wales and Larry Sanger in 2001, Wikipedia has been hosted since 2003 by the Wikimedia Foundation , an American nonprofit organization funded mainly by donations from readers. [ 1 ] Wikipedia is the largest and ",
+        "hile Sanger is credited with the strategy of using a wiki to reach that goal. [ 18 ] On January 10, 2001, Sanger proposed on the Nupedia mailing list to create a wiki as a \"feeder\" project for Nupedia. [ W 3 ] Launch and growth Wikipedia was launched on January 15, 2001 (sometimes re"
+      ]
+    },
+    {
+      "id": "worldcup",
+      "year": 1930,
+      "source": "https://en.wikipedia.org/wiki/1930_FIFA_World_Cup",
+      "resolvedURL": "https://en.wikipedia.org/wiki/1930_FIFA_World_Cup",
+      "status": 200,
+      "ok": true,
+      "title": "1930 FIFA World Cup - Wikipedia",
+      "excerpts": [
+        " 1930 FIFA World Cup - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribu",
+        "rences subsection 11.1 Match reports 12 Bibliography 13 External links Toggle the table of contents 1930 FIFA World Cup 92 languages Afrikaans Alemannisch አማርኛ العربية الدارجة مصرى Asturianu Azərbaycanca Basa Bali Boarisch Беларуская Български বাংলা Brezhoneg Bosanski Català کوردی Če",
+        "ve to sidebar hide From Wikipedia, the free encyclopedia Association football tournament in Uruguay 1930 FIFA World Cup 1er Campeonato Mundial de Fútbol ( Spanish ) Official poster, designed by Guillermo Laborde Tournament details Host country Uruguay City Montevideo Dates 13–30 July"
+      ]
+    },
+    {
+      "id": "xray",
+      "year": 1895,
+      "source": "https://en.wikipedia.org/wiki/Wilhelm_R%C3%B6ntgen",
+      "resolvedURL": "https://en.wikipedia.org/wiki/Wilhelm_R%C3%B6ntgen",
+      "status": 200,
+      "ok": true,
+      "title": "Wilhelm Röntgen - Wikipedia",
+      "excerpts": [
+        "versity of Würzburg. [ 17 ] Discovery of X-rays X-ray by Röntgen of Albert von Kölliker 's hand. In 1895, in his laboratory at the Physical Institute of the University of Würzburg , Röntgen was investigating the external effects of passing an electric discharge through various types ",
+        "than the Lenard tube, might also cause this fluorescent effect. In the late afternoon of 8 November 1895, Röntgen was determined to test his idea. He carefully constructed a black cardboard covering similar to the one he had used on the Lenard tube. He covered the Crookes–Hittorf tub",
+        "nal paper, Ueber eine neue Art von Strahlen ( On a New Kind of Rays ), was published on 28 December 1895. On 5 January 1896, an Austrian newspaper reported his discovery of a new type of radiation. He was awarded an honorary M.D. from the University of Würzburg after his discovery. H"
+      ]
+    },
+    {
+      "id": "yellowstone",
+      "year": 1872,
+      "source": "https://en.wikipedia.org/wiki/Yellowstone_National_Park",
+      "resolvedURL": "https://en.wikipedia.org/wiki/Yellowstone_National_Park",
+      "status": 200,
+      "ok": true,
+      "title": "Yellowstone National Park - Wikipedia",
+      "excerpts": [
+        "[ 2 ] Area 2,219,791 acres (8,983.18 km 2 ) [ 3 ] Elevation 8,104 ft (2,470 m) Established March 1, 1872 ; 154 years ago ( 1872-03-01 ) Visitors 4,762,988 (in 2025) [ 4 ] Governing body U.S. National Park Service Website nps .gov /yell UNESCO World Heritage Site Type Natural Criteria",
+        "lowstone National Park Protection Act and signed into law by President Ulysses S. Grant on March 1, 1872. [ 8 ] [ 9 ] [ 10 ] [ 11 ] Yellowstone was the first national park in the US, and is also widely understood to be the first national park in the world. [ 12 ] Management and contr",
+        " required all the cunning skill of nature thousands of years to prepare\". [ 50 ] [ 51 ] On March 1, 1872, President Ulysses S. Grant signed an Act of Dedication, which demarcated Yellowstone as \"dedicated and set apart as a public park or pleasuring ground for the benefit and enjoyme"
+      ]
+    },
+    {
+      "id": "zheng",
+      "year": 1405,
+      "source": "https://en.wikipedia.org/wiki/Ming_treasure_voyages",
+      "resolvedURL": "https://en.wikipedia.org/wiki/Ming_treasure_voyages",
+      "status": 200,
+      "ok": true,
+      "title": "Ming treasure voyages - Wikipedia",
+      "excerpts": [
+        "item Appearance move to sidebar hide From Wikipedia, the free encyclopedia Maritime voyages between 1405 and 1433 \"Zheng He Xia Xiyang\" redirects here. For the TV series about the voyages, see Zheng He Xia Xiyang (TV series) . Ming treasure voyages Several of Zheng He 's ships as dep",
+        "in Hokkien POJ Tēⁿ Hô Hā Se-iûⁿ Ming China 's treasure fleet undertook maritime expeditions between 1405 and 1433. The Yongle Emperor ordered the construction of the fleet in 1403. The grand project resulted in seven far-reaching ocean voyages to the coastal territories and islands o",
+        " between the Eastern Ocean and Western Ocean at Brunei . [ 29 ] During the first three voyages from 1405 to 1411, the fleet followed the same basic maritime route: from Fujian to the first call in Champa, across the South China Sea to Java and Sumatra , up the Strait of Malacca to no"
+      ]
+    }
+  ]
+}

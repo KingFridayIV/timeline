@@ -1,9 +1,10 @@
 import { EVENTS } from './events.js';
+import { DAILY_PUZZLES } from './puzzles.js';
 export const VERSION=2,TILE_COUNT=5,TOTAL_PAIRS=10;
 export const dayKey=(date=new Date())=>date.toISOString().slice(0,10);
 export const puzzleNumber=day=>Math.floor((Date.parse(day+'T00:00:00Z')-Date.UTC(2026,8,12))/86400000)+1;
 function random(seed){let h=2166136261;for(const c of seed)h=Math.imul(h^c.charCodeAt(0),16777619);return ()=>{h+=0x6D2B79F5;let t=h;t=Math.imul(t^t>>>15,t|1);t^=t+Math.imul(t^t>>>7,t|61);return ((t^t>>>14)>>>0)/4294967296;};}
-export function makePuzzle(seed){const rng=random(`timeline-v${VERSION}:${seed}`),bank=[...EVENTS];for(let i=bank.length-1;i>0;i--){const j=Math.floor(rng()*(i+1));[bank[i],bank[j]]=[bank[j],bank[i]];}const cards=bank.slice(0,TILE_COUNT);if(cards.every((c,i)=>!i||cards[i-1].year<c.year))[cards[0],cards[1]]=[cards[1],cards[0]];return cards;}
+export function makePuzzle(seed){const scheduled=seed.startsWith('daily:')?DAILY_PUZZLES[seed.slice(6)]:null;const rng=random(`timeline-v${VERSION}:${seed}`),bank=scheduled?scheduled.map(e=>({...e})):[...EVENTS];for(let i=bank.length-1;i>0;i--){const j=Math.floor(rng()*(i+1));[bank[i],bank[j]]=[bank[j],bank[i]];}const cards=bank.slice(0,TILE_COUNT);if(cards.every((c,i)=>!i||cards[i-1].year<c.year))[cards[0],cards[1]]=[cards[1],cards[0]];return cards;}
 export const newGame=seed=>({seed,slots:Array(TILE_COUNT).fill(null),submitted:false});
 export function validGame(g,seed){if(!g||g.seed!==seed||typeof g.submitted!=='boolean'||!Array.isArray(g.slots)||g.slots.length!==TILE_COUNT)return false;const ids=makePuzzle(seed).map(e=>e.id),placed=g.slots.filter(id=>id!==null);return g.slots.every(id=>id===null||ids.includes(id))&&new Set(placed).size===placed.length&&(!g.submitted||placed.length===TILE_COUNT);}
 export function arrange(g,id,target){if(g.submitted)throw new Error('This timeline has already been submitted.');if(!makePuzzle(g.seed).some(e=>e.id===id))throw new Error('Choose a tile from this puzzle.');if(target!==null&&(!Number.isInteger(target)||target<0||target>=TILE_COUNT))throw new Error('Choose a valid timeline space.');const slots=[...g.slots],from=slots.indexOf(id);if(target===null){if(from!==-1)slots[from]=null;}else if(from!==target){const displaced=slots[target];slots[target]=id;if(from!==-1)slots[from]=displaced;}return {...g,slots};}
