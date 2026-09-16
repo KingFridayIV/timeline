@@ -1,6 +1,6 @@
 # Adding daily puzzles
 
-The first curated batch covers **September 16–30, 2026 (UTC)**: 15 puzzles, five events each, with 75 distinct events. It mixes familiar milestones with a few closer comparisons, following the existing difficulty and short exhibit-style descriptions. The batch draws 40 events from the original bank and adds 35 new ones.
+The first curated batch covers **September 16–30, 2026 (Eastern Time)**: 15 puzzles, five events each, with 75 distinct events. It mixes familiar milestones with a few closer comparisons, following the existing difficulty and short exhibit-style descriptions. The batch draws 40 events from the original bank and adds 35 new ones.
 
 ## When you return
 
@@ -20,7 +20,7 @@ The next batch currently starts **October 1, 2026**. The schedule is stored in `
 
 ## File format
 
-Each file has `schemaVersion: 1` and a `puzzles` array. Each puzzle has an ISO UTC `date` (`YYYY-MM-DD`) and exactly five `events`. Each event contains:
+Each file has `schemaVersion: 1` and a `puzzles` array. Each puzzle has an Eastern calendar `date` (`YYYY-MM-DD`) and exactly five `events`. Each event contains:
 
 | Field | Meaning |
 | --- | --- |

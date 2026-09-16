@@ -1,6 +1,6 @@
 # Small pilot
 
-The prepared release is **2.3.0**, with curated puzzles for September 16–30, 2026, resetting at midnight UTC. It is ready for publication using `GITHUB-PAGES.md`; this local package does not itself create a public URL.
+The prepared release is **2.4.0**, with curated puzzles for September 16–30, 2026, resetting at midnight Eastern Time. It is ready for publication using `GITHUB-PAGES.md`; this local package does not itself create a public URL.
 
 ## Before inviting friends
 
@@ -21,6 +21,6 @@ Send me your score, and let me know: Was anything confusing? Did dragging feel c
 
 Scores and streaks are saved in that browser on that device. No sign-in, tracking service, leaderboard, or cross-device synchronization is included. Clearing browser data or changing the site address resets that device’s history. Private browsing may not retain it.
 
-Daily dates follow UTC, not local midnight: in New York during September, the next puzzle arrives at 8 p.m. The countdown shows when it changes. Client-side answers are accessible to someone inspecting the website; this version is intended for friendly play.
+Daily dates follow America/New_York. Everyone gets the same new puzzle at midnight Eastern Time, with daylight-saving changes handled automatically. The countdown shows when it changes. Client-side answers are accessible to someone inspecting the website; this version is intended for friendly play.
 
 The desktop test suite covers all 120 orderings, drag handling, daily saves, every curated puzzle, link format, content validation, and share-grid consistency. Wikipedia references were checked online on September 15, 2026: all 75 returned HTTP 200. Physical iPhone/Android testing and the live GitHub deployment remain the final host/device checks.

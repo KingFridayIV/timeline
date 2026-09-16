@@ -25,7 +25,7 @@ For frequent development, [GitHub Desktop](https://desktop.github.com/) is more 
 - No workflow appears: check that the `.github/workflows/pages.yml` file was uploaded at the repository root.
 - A Pages configuration error: set Settings → Pages → Source to GitHub Actions, then rerun the failed workflow.
 - No automatic run: the workflow watches `main`. If your default branch has a different name, rename it to `main` or update the workflow's `branches` setting.
-- A blank page or missing files: confirm `dist/index.html`, `app.js`, `engine.js`, `events.js`, `labels.js`, `drag.js`, `results.js`, `puzzles.js`, and `style.css` are all present. The workflow must publish `dist`, not the entire repository.
+- A blank page or missing files: confirm `dist/index.html`, `app.js`, `engine.js`, `calendar.js`, `events.js`, `labels.js`, `drag.js`, `results.js`, `puzzles.js`, and `style.css` are all present. The workflow must publish `dist`, not the entire repository.
 - Tests fail: the deployment will stop and the previously published version remains live. Fix the failing test or game change before publishing again.
 
 ## Is there a reason to use another host?

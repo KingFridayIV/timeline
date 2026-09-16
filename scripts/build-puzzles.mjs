@@ -11,7 +11,7 @@ export function validateBatches(batches){
   if(data.schemaVersion!==1||!Array.isArray(data.puzzles)||!data.puzzles.length)throw Error(`${name}: expected schemaVersion 1 and a nonempty puzzles array.`);
   for(const puzzle of data.puzzles){
    const {date,events}=puzzle;
-   if(typeof date!=='string'||!/^\d{4}-\d{2}-\d{2}$/.test(date)||!Number.isFinite(Date.parse(date))||new Date(date).toISOString().slice(0,10)!==date)throw Error(`${name}: invalid UTC date ${date}.`);
+   if(typeof date!=='string'||!/^\d{4}-\d{2}-\d{2}$/.test(date)||!Number.isFinite(Date.parse(date))||new Date(date).toISOString().slice(0,10)!==date)throw Error(`${name}: invalid calendar date ${date}.`);
    if(Object.hasOwn(schedule,date))throw Error(`${name}: duplicate date ${date}; existing puzzles cannot be replaced by another batch.`);
    if(!Array.isArray(events)||events.length!==5)throw Error(`${date}: exactly five events are required.`);
    const ids=new Set(),years=new Set();

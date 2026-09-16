@@ -4,12 +4,14 @@ import {dayKey,makePuzzle} from '../dist/engine.js';
 import {resultRows} from '../dist/results.js';
 // A small DOM adapter checks the actual UI event handlers without browser automation.
 test('UI: curated daily, all tiles/spaces, undo, final-only years, persistence, and mobile sharing',async t=>{
- const RealDate=Date;globalThis.Date=class extends RealDate{constructor(...args){super(...(args.length?args:['2026-09-16T12:00:00Z']));}static now(){return RealDate.parse('2026-09-16T12:00:00Z');}};
+ const RealDate=Date;let now=RealDate.parse('2026-09-16T12:00:00Z');globalThis.Date=class extends RealDate{constructor(...args){super(...(args.length?args:[now]));}static now(){return now;}};
  t.after(()=>{globalThis.Date=RealDate;});
  const nodes=new Map(),registered=new Map(),stored=new Map();let copied='';
  const node=key=>{if(!nodes.has(key))nodes.set(key,{innerHTML:'',textContent:'',handlers:{},classList:{add(){},remove(){}},addEventListener(event,fn){this.handlers[event]=fn;},focus(){},scrollIntoView(){},showModal(){this.open=true;},close(){this.open=false;}});return nodes.get(key);};
- globalThis.document={querySelector:node,addEventListener(){},modelContext:{registerTool(tool){registered.set(tool.name,tool);}}};
- globalThis.window={addEventListener(){},scrollTo(){}};
+ const windowEvents={},documentEvents={};
+ const listen=(events,name,handler)=>{const previous=events[name];events[name]=event=>{previous?.(event);handler(event);};};
+ globalThis.document={querySelector:node,addEventListener(name,handler){listen(documentEvents,name,handler);},modelContext:{registerTool(tool){registered.set(tool.name,tool);}}};
+ globalThis.window={addEventListener(name,handler){listen(windowEvents,name,handler);},scrollTo(){}};
  globalThis.localStorage={getItem:k=>stored.get(k)??null,setItem:(k,v)=>stored.set(k,v)};
  Object.defineProperty(globalThis,'navigator',{configurable:true,value:{clipboard:{writeText:async text=>{copied=text;}}}});
  globalThis.location={origin:'https://example.com',pathname:'/timeline/'};
@@ -55,4 +57,20 @@ test('UI: curated daily, all tiles/spaces, undo, final-only years, persistence, 
  await click({dataset:{mode:'practice'}});assert.equal(read().submitted,false);assert.ok(read().slots.every(x=>x===null));
  await click({dataset:{mode:'daily'}});assert.equal(read().result.percent,60);
  assert.equal(registered.size,3);assert.equal(registered.get('read_timeline_game').annotations.readOnlyHint,true);
+ // A background tab remains on the same dated puzzle until Eastern midnight.
+ now=RealDate.parse('2026-09-17T03:59:59Z');windowEvents.pageshow();
+ assert.equal(read().date,'2026-09-16');assert.equal(read().submitted,true);assert.equal(node('#countdown').textContent,'00:00:01');
+ now=RealDate.parse('2026-09-17T04:00:00Z');windowEvents.focus();
+ assert.equal(read().date,'2026-09-17');assert.equal(read().submitted,false);assert.ok(read().slots.every(x=>x===null));
+ assert.equal(node('#countdown').textContent,'24:00:00');
+ assert.deepEqual(JSON.parse(stored.get('timeline-v2:2026-09-16')),submitted);
+ // Full reload selects the same date and recovers that day's staged placement.
+ const nextId=read().tiles[0].id;registered.get('arrange_timeline_tile').execute({id:nextId,space:0});
+ for(const events of [documentEvents,windowEvents])for(const key of Object.keys(events))delete events[key];
+ globalThis.setInterval=()=>0;try{await import('../dist/app.js?reload-eastern');}finally{globalThis.setInterval=interval;}
+ assert.equal(read().date,'2026-09-17');assert.equal(read().slots[0],nextId);
+ // A stale submit cannot be applied to the newly arrived puzzle.
+ now=RealDate.parse('2026-09-18T04:00:00Z');await click({id:'submit'});
+ assert.equal(read().date,'2026-09-18');assert.equal(read().submitted,false);assert.ok(read().slots.every(x=>x===null));
+ now=RealDate.parse('2026-09-19T04:00:00Z');documentEvents.visibilitychange();assert.equal(read().date,'2026-09-19');
 });

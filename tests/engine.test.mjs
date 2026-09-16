@@ -36,8 +36,8 @@ test('reject corrupt saves and invalid move inputs without mutations',()=>{
  assert.throws(()=>arrange(g,'unknown',0));assert.ok(g.slots.every(x=>x===null));
  for(const save of [null,{}, {...g,slots:[id,id,null,null,null]}, {...g,slots:['bad',null,null,null,null]}, {...g,submitted:true},{...g,submitted:'true'},{...g,seed:'other'},{...g,slots:[null]}])assert.equal(validGame(save,g.seed),false);
 });
-test('UTC rollover and new percentage statistics',()=>{
- assert.equal(dayKey(new Date('2026-09-12T20:00:00-04:00')),'2026-09-13');assert.equal(puzzleNumber('2026-09-12'),1);
+test('Eastern calendar and percentage statistics',()=>{
+ assert.equal(dayKey(new Date('2026-09-12T20:00:00-04:00')),'2026-09-12');assert.equal(puzzleNumber('2026-09-12'),1);
  const h={'2026-09-10':10,'2026-09-11':0,'2026-09-12':6};
  assert.deepEqual(statistics(h,'2026-09-12'),{played:3,perfect:1,average:53,current:3,best:3});
  assert.equal(statistics(h,'2026-09-13').current,3);assert.equal(statistics(h,'2026-09-14').current,0);

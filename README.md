@@ -1,6 +1,6 @@
 # Timeline — restore the timeline
 
-A mobile-first daily history puzzle, built as a dependency-free static website. Release 2.3 includes 15 curated daily puzzles for September 16–30, 2026 (UTC), with 75 distinct events and verified Wikipedia links.
+A mobile-first daily history puzzle, built as a dependency-free static website. Release 2.4 includes 15 curated daily puzzles for September 16–30, 2026 (Eastern Time), with 75 distinct events and verified Wikipedia links.
 
 ## Local play
 
@@ -16,7 +16,7 @@ Five event fragments and five empty timeline spaces are available from the begin
 
 Submit the whole arrangement once. All years and the final score are revealed together. The result includes your submitted order, the correct chronology, event explanations, and source links. There are no timed rounds, lives, or individual-answer reveals.
 
-Daily boards and results persist on this device. Practice is unlimited and stays separate from daily statistics. Daily puzzles reset at midnight UTC. Version 2 has separate saved data because the old score is not comparable; version-1 data is left untouched.
+Daily boards and results persist on this device. Practice is unlimited and stays separate from daily statistics. Daily puzzles reset at midnight Eastern Time. Version 2 has separate saved data because the old score is not comparable; version-1 data is left untouched.
 
 ## Scoring
 
@@ -46,6 +46,7 @@ No repository has been created or pushed and no online deployment has been perfo
 ## Refinement blocks
 
 - `dist/engine.js`: puzzle generation, board operations, validation, pair scoring, statistics.
+- `dist/calendar.js`: shared America/New_York puzzle dates and daylight-saving-aware midnight countdown.
 - `dist/app.js`: interaction coordination, result reveal, sharing, persistence, optional WebMCP tools. `dist/drag.js`: isolated pointer-drag controller.
 - `dist/style.css` and `dist/index.html`: mobile layout and museum-inspired presentation.
 - `dist/events.js`: immutable event bank and sources. `dist/labels.js`: editable short display labels.
@@ -72,7 +73,7 @@ Each pair appears in two rows but still counts only once toward the overall scor
 
 Open Graph and summary-card metadata are provided. Messaging apps control whether and when they display or cache link previews; the copied text always includes the game description. Metadata on a localhost URL is not remotely accessible; publish the updated website to review its messaging-app preview.
 
-Nineteen automated checks include all 120 permutations, every curated daily puzzle, content validation, exact square-to-comparison identity, UI/share equivalence, hidden-answer behavior, and link metadata. Physical iPhone hardware has not been tested.
+Twenty-three automated checks include all 120 permutations, every curated daily puzzle, content validation, exact square-to-comparison identity, UI/share equivalence, hidden-answer behavior, and link metadata. Physical iPhone hardware has not been tested.
 
 ## Pilot additions (2.3)
 
@@ -81,3 +82,11 @@ The curated schedule overrides only its explicit future daily dates. Earlier dat
 The Share result button opens the native share menu on supported phones. Cancellation is silent; unavailable sharing falls back to copying, then to a selectable text box if clipboard access is unavailable. The same description, score, emoji grid, and URL are used in every path.
 
 All 75 unique Wikipedia references in this batch returned HTTP 200 on September 15, 2026. The source-check report is in `content/reports/`; the online check is separate from the offline test suite. Wikipedia availability is not guaranteed permanently.
+
+## Eastern midnight update (2.4)
+
+All players use the same America/New_York calendar, regardless of their device's local time zone. The batch remains assigned to September 16–30, inclusive. Reloading after midnight Eastern loads the new date's puzzle. Open tabs check once a second, when returning to the page, and before board actions. The countdown follows Eastern midnight even on daylight-saving transition days. Streaks count calendar days, not 24-hour intervals.
+
+Existing saved results keep their date keys. If someone already completed a date early under the former UTC schedule, that score is preserved rather than erased or reassigned. This static game uses the device's current time; automatic date/time should be enabled. Deploy the updated files so visitors receive the new calendar logic.
+
+There are no defined difficulty levels in the content, so no difficulty labels have been added and the puzzles are unchanged. Admin analytics are deferred by request: no tracking script, device identifier, or analytics service is included.

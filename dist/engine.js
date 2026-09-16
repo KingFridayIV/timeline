@@ -1,7 +1,7 @@
 import { EVENTS } from './events.js';
 import { DAILY_PUZZLES } from './puzzles.js';
 export const VERSION=2,TILE_COUNT=5,TOTAL_PAIRS=10;
-export const dayKey=(date=new Date())=>date.toISOString().slice(0,10);
+export {dayKey} from './calendar.js';
 export const puzzleNumber=day=>Math.floor((Date.parse(day+'T00:00:00Z')-Date.UTC(2026,8,12))/86400000)+1;
 function random(seed){let h=2166136261;for(const c of seed)h=Math.imul(h^c.charCodeAt(0),16777619);return ()=>{h+=0x6D2B79F5;let t=h;t=Math.imul(t^t>>>15,t|1);t^=t+Math.imul(t^t>>>7,t|61);return ((t^t>>>14)>>>0)/4294967296;};}
 export function makePuzzle(seed){const scheduled=seed.startsWith('daily:')?DAILY_PUZZLES[seed.slice(6)]:null;const rng=random(`timeline-v${VERSION}:${seed}`),bank=scheduled?scheduled.map(e=>({...e})):[...EVENTS];for(let i=bank.length-1;i>0;i--){const j=Math.floor(rng()*(i+1));[bank[i],bank[j]]=[bank[j],bank[i]];}const cards=bank.slice(0,TILE_COUNT);if(cards.every((c,i)=>!i||cards[i-1].year<c.year))[cards[0],cards[1]]=[cards[1],cards[0]];return cards;}
@@ -17,4 +17,4 @@ export function tileStatus(result,id){
 }
 export function derive(g){const cards=makePuzzle(g.seed),placed=g.slots.filter(Boolean).length,ordered=g.slots.map(id=>cards.find(c=>c.id===id)||null);return {cards,ordered,placed,complete:placed===TILE_COUNT,submitted:g.submitted,result:g.submitted?{...scoreOrder(ordered),correctOrder:[...cards].sort((a,b)=>a.year-b.year)}:null};}
 export function cleanHistory(h){if(!h||typeof h!=='object'||Array.isArray(h))return {};return Object.fromEntries(Object.entries(h).filter(([d,n])=>/^\d{4}-\d{2}-\d{2}$/.test(d)&&Number.isFinite(Date.parse(d))&&Number.isInteger(n)&&n>=0&&n<=TOTAL_PAIRS));}
-export function statistics(history,today){history=cleanHistory(history);const days=Object.keys(history).sort();let best=0,run=0,prev=null;for(const d of days){run=prev&&Date.parse(d)-Date.parse(prev)===86400000?run+1:1;best=Math.max(best,run);prev=d;}let current=0,cursor=Date.parse(today);if(!days.includes(today))cursor-=86400000;while(days.includes(dayKey(new Date(cursor)))){current++;cursor-=86400000;}return {played:days.length,perfect:days.filter(d=>history[d]===TOTAL_PAIRS).length,average:days.length?Math.round(days.reduce((n,d)=>n+history[d],0)/days.length/TOTAL_PAIRS*100):null,current,best};}
+export function statistics(history,today){history=cleanHistory(history);const days=Object.keys(history).sort();let best=0,run=0,prev=null;for(const d of days){run=prev&&Date.parse(d)-Date.parse(prev)===86400000?run+1:1;best=Math.max(best,run);prev=d;}let current=0,cursor=Date.parse(today);if(!days.includes(today))cursor-=86400000;while(days.includes(new Date(cursor).toISOString().slice(0,10))){current++;cursor-=86400000;}return {played:days.length,perfect:days.filter(d=>history[d]===TOTAL_PAIRS).length,average:days.length?Math.round(days.reduce((n,d)=>n+history[d],0)/days.length/TOTAL_PAIRS*100):null,current,best};}
