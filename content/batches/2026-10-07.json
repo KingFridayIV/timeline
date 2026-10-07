@@ -1,0 +1,755 @@
+{
+  "schemaVersion": 1,
+  "puzzles": [
+    {
+      "date": "2026-10-07",
+      "events": [
+        {
+          "id": "web",
+          "year": 1991,
+          "title": "The first website becomes publicly available",
+          "category": "Invention",
+          "fact": "Tim Berners-Lee shares the World Wide Web project with the public.",
+          "source": "https://en.wikipedia.org/wiki/History_of_the_World_Wide_Web",
+          "label": "The first website goes public"
+        },
+        {
+          "id": "toystory",
+          "year": 1995,
+          "title": "Toy Story opens in cinemas",
+          "category": "Culture",
+          "fact": "Pixar releases the first fully computer-animated feature film.",
+          "source": "https://en.wikipedia.org/wiki/Toy_Story",
+          "label": "Toy Story opens in cinemas"
+        },
+        {
+          "id": "pong",
+          "year": 1972,
+          "title": "Pong is released",
+          "category": "Culture",
+          "fact": "Atari’s arcade table-tennis game becomes an early video-game hit.",
+          "source": "https://en.wikipedia.org/wiki/Pong",
+          "label": "Pong is released"
+        },
+        {
+          "id": "olympics",
+          "year": 1896,
+          "title": "The first modern Olympics take place",
+          "category": "Sport",
+          "fact": "Athens hosts the first Games of the modern Olympic era.",
+          "source": "https://en.wikipedia.org/wiki/1896_Summer_Olympics",
+          "label": "The first modern Olympics"
+        },
+        {
+          "id": "blackhole",
+          "year": 2019,
+          "title": "The first image of a black hole is released",
+          "category": "Science",
+          "fact": "The Event Horizon Telescope reveals the black hole in galaxy M87.",
+          "source": "https://en.wikipedia.org/wiki/Event_Horizon_Telescope",
+          "label": "The first black hole image"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "events": [
+        {
+          "id": "pompeii",
+          "year": 79,
+          "title": "Mount Vesuvius buries Pompeii",
+          "label": "Vesuvius buries Pompeii",
+          "category": "World",
+          "fact": "The eruption covers Pompeii in volcanic material, preserving much of the Roman city beneath it.",
+          "source": "https://en.wikipedia.org/wiki/Eruption_of_Mount_Vesuvius_in_79_AD"
+        },
+        {
+          "id": "voc",
+          "year": 1602,
+          "title": "The Dutch East India Company is founded",
+          "label": "Dutch East India Company founded",
+          "category": "World",
+          "fact": "The VOC is established by a Dutch charter to organize trade with Asia.",
+          "source": "https://en.wikipedia.org/wiki/Dutch_East_India_Company"
+        },
+        {
+          "id": "underground",
+          "year": 1863,
+          "title": "The London Underground opens",
+          "label": "The London Underground opens",
+          "category": "Invention",
+          "fact": "The Metropolitan Railway begins carrying passengers between Paddington and Farringdon.",
+          "source": "https://en.wikipedia.org/wiki/Metropolitan_Railway"
+        },
+        {
+          "id": "steamboat",
+          "year": 1928,
+          "title": "Steamboat Willie premieres",
+          "label": "Steamboat Willie premieres",
+          "category": "Culture",
+          "fact": "The animated short helps introduce Mickey Mouse to a wide audience with synchronized sound.",
+          "source": "https://en.wikipedia.org/wiki/Steamboat_Willie"
+        },
+        {
+          "id": "civilrights",
+          "year": 1964,
+          "title": "The US Civil Rights Act is signed",
+          "label": "The US Civil Rights Act is signed",
+          "category": "World",
+          "fact": "President Lyndon B. Johnson signs the landmark law prohibiting discrimination in areas including public accommodations and employment.",
+          "source": "https://en.wikipedia.org/wiki/Civil_Rights_Act_of_1964"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "events": [
+        {
+          "id": "colosseum",
+          "year": 80,
+          "title": "The Colosseum opens in Rome",
+          "label": "The Colosseum opens",
+          "category": "Culture",
+          "fact": "Emperor Titus inaugurates the huge amphitheater with public games.",
+          "source": "https://en.wikipedia.org/wiki/Colosseum"
+        },
+        {
+          "id": "galileo",
+          "year": 1610,
+          "title": "Galileo publishes The Starry Messenger",
+          "label": "Galileo’s Starry Messenger debuts",
+          "category": "Science",
+          "fact": "His short book reports telescopic observations of the Moon, stars, and four moons of Jupiter.",
+          "source": "https://en.wikipedia.org/wiki/Sidereus_Nuncius"
+        },
+        {
+          "id": "thirteenth",
+          "year": 1865,
+          "title": "The US ratifies the Thirteenth Amendment",
+          "label": "The Thirteenth Amendment is ratified",
+          "category": "World",
+          "fact": "The amendment abolishes slavery and involuntary servitude, except as punishment for a crime.",
+          "source": "https://en.wikipedia.org/wiki/Thirteenth_Amendment_to_the_United_States_Constitution"
+        },
+        {
+          "id": "plutodiscovery",
+          "year": 1930,
+          "title": "Clyde Tombaugh discovers Pluto",
+          "label": "Clyde Tombaugh discovers Pluto",
+          "category": "Science",
+          "fact": "Tombaugh identifies the distant object while comparing photographic plates at Lowell Observatory.",
+          "source": "https://en.wikipedia.org/wiki/Clyde_Tombaugh"
+        },
+        {
+          "id": "sgtpepper",
+          "year": 1967,
+          "title": "The Beatles release Sgt. Pepper’s Lonely Hearts Club Band",
+          "label": "The Beatles release Sgt. Pepper",
+          "category": "Culture",
+          "fact": "The album brings together songs including Lucy in the Sky with Diamonds and A Day in the Life.",
+          "source": "https://en.wikipedia.org/wiki/Sgt._Pepper%27s_Lonely_Hearts_Club_Band"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-10",
+      "events": [
+        {
+          "id": "constantinople",
+          "year": 330,
+          "title": "Constantinople is dedicated as a new imperial capital",
+          "label": "Constantinople becomes a capital",
+          "category": "World",
+          "fact": "Constantine formally dedicates the rebuilt city of Byzantium, later known as Constantinople.",
+          "source": "https://en.wikipedia.org/wiki/Constantinople"
+        },
+        {
+          "id": "mayflower",
+          "year": 1620,
+          "title": "The Mayflower reaches North America",
+          "label": "The Mayflower reaches America",
+          "category": "Exploration",
+          "fact": "The ship arrives at Cape Cod before its passengers establish Plymouth Colony.",
+          "source": "https://en.wikipedia.org/wiki/Mayflower"
+        },
+        {
+          "id": "canada",
+          "year": 1867,
+          "title": "Canadian Confederation takes effect",
+          "label": "Canadian Confederation takes effect",
+          "category": "World",
+          "fact": "Ontario, Quebec, Nova Scotia, and New Brunswick form the Dominion of Canada on July 1.",
+          "source": "https://en.wikipedia.org/wiki/Canadian_Confederation"
+        },
+        {
+          "id": "empirestate",
+          "year": 1931,
+          "title": "The Empire State Building opens",
+          "label": "The Empire State Building opens",
+          "category": "Invention",
+          "fact": "The New York skyscraper opens as the tallest building in the world.",
+          "source": "https://en.wikipedia.org/wiki/Empire_State_Building"
+        },
+        {
+          "id": "email",
+          "year": 1971,
+          "title": "Ray Tomlinson sends network email",
+          "label": "Tomlinson sends network email",
+          "category": "Invention",
+          "fact": "Tomlinson develops messaging between computers on ARPANET and chooses the @ sign to separate the user and host.",
+          "source": "https://en.wikipedia.org/wiki/Ray_Tomlinson"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-11",
+      "events": [
+        {
+          "id": "lindisfarne",
+          "year": 793,
+          "title": "Vikings raid the monastery at Lindisfarne",
+          "label": "Vikings raid Lindisfarne",
+          "category": "World",
+          "fact": "The attack on the monastery off England’s northeast coast becomes a famous early Viking raid.",
+          "source": "https://en.wikipedia.org/wiki/Lindisfarne"
+        },
+        {
+          "id": "royalsociety",
+          "year": 1660,
+          "title": "The Royal Society is founded",
+          "label": "The Royal Society is founded",
+          "category": "Science",
+          "fact": "A group meeting at Gresham College in London establishes a society for experimental science.",
+          "source": "https://en.wikipedia.org/wiki/Royal_Society"
+        },
+        {
+          "id": "meiji",
+          "year": 1868,
+          "title": "The Meiji Restoration begins in Japan",
+          "label": "Japan’s Meiji Restoration begins",
+          "category": "World",
+          "fact": "Imperial rule is restored under Emperor Meiji as the Tokugawa shogunate comes to an end.",
+          "source": "https://en.wikipedia.org/wiki/Meiji_Restoration"
+        },
+        {
+          "id": "goldengate",
+          "year": 1937,
+          "title": "The Golden Gate Bridge opens",
+          "label": "The Golden Gate Bridge opens",
+          "category": "Invention",
+          "fact": "The San Francisco bridge opens first to pedestrians, then to vehicles the following day.",
+          "source": "https://en.wikipedia.org/wiki/Golden_Gate_Bridge"
+        },
+        {
+          "id": "mobilecall",
+          "year": 1973,
+          "title": "Martin Cooper makes a public handheld mobile-phone call",
+          "label": "Cooper demonstrates a mobile call",
+          "category": "Invention",
+          "fact": "The Motorola engineer demonstrates a handheld cellular phone on a New York City street.",
+          "source": "https://en.wikipedia.org/wiki/Martin_Cooper_(inventor)"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "events": [
+        {
+          "id": "charlemagne",
+          "year": 800,
+          "title": "Charlemagne is crowned emperor",
+          "label": "Charlemagne is crowned emperor",
+          "category": "World",
+          "fact": "Pope Leo III crowns the Frankish ruler in Rome on Christmas Day.",
+          "source": "https://en.wikipedia.org/wiki/Charlemagne"
+        },
+        {
+          "id": "stpetersburg",
+          "year": 1703,
+          "title": "Saint Petersburg is founded",
+          "label": "Saint Petersburg is founded",
+          "category": "World",
+          "fact": "Peter the Great establishes the city on the Neva River, beginning with the Peter and Paul Fortress.",
+          "source": "https://en.wikipedia.org/wiki/Saint_Petersburg"
+        },
+        {
+          "id": "swanlake",
+          "year": 1877,
+          "title": "Swan Lake premieres in Moscow",
+          "label": "Swan Lake premieres",
+          "category": "Culture",
+          "fact": "Tchaikovsky’s ballet first appears at the Bolshoi Theatre, long before the later production that makes it a classic.",
+          "source": "https://en.wikipedia.org/wiki/Swan_Lake"
+        },
+        {
+          "id": "warworlds",
+          "year": 1938,
+          "title": "Orson Welles broadcasts The War of the Worlds",
+          "label": "War of the Worlds airs on radio",
+          "category": "Culture",
+          "fact": "The radio drama presents part of its alien-invasion story in the style of breaking news bulletins.",
+          "source": "https://en.wikipedia.org/wiki/The_War_of_the_Worlds_(1938_radio_drama)"
+        },
+        {
+          "id": "jaws",
+          "year": 1975,
+          "title": "Jaws opens in cinemas",
+          "label": "Jaws opens in cinemas",
+          "category": "Culture",
+          "fact": "Steven Spielberg’s shark thriller becomes a major summer box-office success.",
+          "source": "https://en.wikipedia.org/wiki/Jaws_(film)"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-13",
+      "events": [
+        {
+          "id": "domesday",
+          "year": 1086,
+          "title": "The Domesday survey is completed",
+          "label": "The Domesday survey is completed",
+          "category": "World",
+          "fact": "William the Conqueror’s great survey records landholdings and resources across much of England.",
+          "source": "https://en.wikipedia.org/wiki/Domesday_Book"
+        },
+        {
+          "id": "crusoe",
+          "year": 1719,
+          "title": "Robinson Crusoe is published",
+          "label": "Robinson Crusoe is published",
+          "category": "Culture",
+          "fact": "Daniel Defoe’s novel tells the story of a castaway’s long struggle to survive on an island.",
+          "source": "https://en.wikipedia.org/wiki/Robinson_Crusoe"
+        },
+        {
+          "id": "brooklyn",
+          "year": 1883,
+          "title": "The Brooklyn Bridge opens",
+          "label": "The Brooklyn Bridge opens",
+          "category": "Invention",
+          "fact": "The suspension bridge opens to connect Manhattan and Brooklyn across the East River.",
+          "source": "https://en.wikipedia.org/wiki/Brooklyn_Bridge"
+        },
+        {
+          "id": "eniac",
+          "year": 1946,
+          "title": "ENIAC is publicly unveiled",
+          "label": "ENIAC is publicly unveiled",
+          "category": "Invention",
+          "fact": "The large electronic computer is demonstrated at the University of Pennsylvania.",
+          "source": "https://en.wikipedia.org/wiki/ENIAC"
+        },
+        {
+          "id": "walkman",
+          "year": 1979,
+          "title": "Sony releases the first Walkman",
+          "label": "The first Walkman goes on sale",
+          "category": "Invention",
+          "fact": "The portable cassette player goes on sale in Japan, making personal music listening easier on the move.",
+          "source": "https://en.wikipedia.org/wiki/Walkman"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-14",
+      "events": [
+        {
+          "id": "marcopolo",
+          "year": 1271,
+          "title": "Marco Polo leaves Venice for Asia",
+          "label": "Marco Polo sets out for Asia",
+          "category": "Exploration",
+          "fact": "Marco sets out with his father and uncle on the journey that takes him to the court of Kublai Khan.",
+          "source": "https://en.wikipedia.org/wiki/Marco_Polo"
+        },
+        {
+          "id": "cook",
+          "year": 1770,
+          "title": "James Cook lands at Botany Bay",
+          "label": "Cook lands at Botany Bay",
+          "category": "Exploration",
+          "fact": "Endeavour reaches the east coast of Australia during Cook’s first Pacific voyage.",
+          "source": "https://en.wikipedia.org/wiki/First_voyage_of_James_Cook"
+        },
+        {
+          "id": "cocacola",
+          "year": 1886,
+          "title": "Coca-Cola is first sold",
+          "label": "Coca-Cola is first sold",
+          "category": "Culture",
+          "fact": "John Pemberton’s drink is served at Jacobs’ Pharmacy in Atlanta.",
+          "source": "https://en.wikipedia.org/wiki/Coca-Cola"
+        },
+        {
+          "id": "lp",
+          "year": 1948,
+          "title": "Columbia introduces the long-playing record",
+          "label": "The LP record is introduced",
+          "category": "Invention",
+          "fact": "The new microgroove vinyl format spins at 33⅓ rpm and holds more music than earlier commercial discs.",
+          "source": "https://en.wikipedia.org/wiki/LP_record"
+        },
+        {
+          "id": "cd",
+          "year": 1982,
+          "title": "The compact disc makes its commercial debut",
+          "label": "The compact disc goes on sale",
+          "category": "Invention",
+          "fact": "The first commercial CD players and discs go on sale in Japan before wider international launches.",
+          "source": "https://en.wikipedia.org/wiki/Compact_disc"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "events": [
+        {
+          "id": "mansamusa",
+          "year": 1324,
+          "title": "Mansa Musa sets out on his pilgrimage to Mecca",
+          "label": "Mansa Musa’s pilgrimage begins",
+          "category": "World",
+          "fact": "The ruler of Mali travels through Cairo on a pilgrimage remembered for its spectacular displays of wealth.",
+          "source": "https://en.wikipedia.org/wiki/Mansa_Musa"
+        },
+        {
+          "id": "balloon",
+          "year": 1783,
+          "title": "The first untethered human balloon flight takes place",
+          "label": "First untethered human balloon flight",
+          "category": "Invention",
+          "fact": "Pilâtre de Rozier and the Marquis d’Arlandes fly over Paris in a Montgolfier hot-air balloon.",
+          "source": "https://en.wikipedia.org/wiki/Montgolfier_brothers"
+        },
+        {
+          "id": "basketball",
+          "year": 1891,
+          "title": "James Naismith invents basketball",
+          "label": "Naismith invents basketball",
+          "category": "Sport",
+          "fact": "Naismith devises an indoor game using a ball and peach baskets at a school in Springfield, Massachusetts.",
+          "source": "https://en.wikipedia.org/wiki/James_Naismith"
+        },
+        {
+          "id": "dna",
+          "year": 1953,
+          "title": "Watson and Crick publish their DNA model",
+          "label": "The DNA double-helix model appears",
+          "category": "Science",
+          "fact": "Their Nature paper proposes the double-helix structure, drawing on evidence including X-ray work by other researchers.",
+          "source": "https://en.wikipedia.org/wiki/Molecular_Structure_of_Nucleic_Acids:_A_Structure_for_Deoxyribose_Nucleic_Acid"
+        },
+        {
+          "id": "macintosh",
+          "year": 1984,
+          "title": "Apple introduces the Macintosh",
+          "label": "Apple introduces the Macintosh",
+          "category": "Invention",
+          "fact": "The original Macintosh brings a graphical interface and mouse to a new personal-computer audience.",
+          "source": "https://en.wikipedia.org/wiki/Macintosh_128K"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-16",
+      "events": [
+        {
+          "id": "constantinoplefall",
+          "year": 1453,
+          "title": "Constantinople falls to the Ottoman Empire",
+          "label": "Constantinople falls to the Ottomans",
+          "category": "World",
+          "fact": "Sultan Mehmed II captures the city after a siege, bringing the Byzantine Empire to an end.",
+          "source": "https://en.wikipedia.org/wiki/Fall_of_Constantinople"
+        },
+        {
+          "id": "jenner",
+          "year": 1796,
+          "title": "Edward Jenner tests a smallpox vaccine",
+          "label": "Jenner tests a smallpox vaccine",
+          "category": "Science",
+          "fact": "Jenner uses material from a cowpox lesion in an experiment that helps establish vaccination against smallpox.",
+          "source": "https://en.wikipedia.org/wiki/Edward_Jenner"
+        },
+        {
+          "id": "adwa",
+          "year": 1896,
+          "title": "Ethiopia wins the Battle of Adwa",
+          "label": "Ethiopia wins the Battle of Adwa",
+          "category": "World",
+          "fact": "Emperor Menelik II’s forces defeat an Italian army, helping preserve Ethiopia’s independence.",
+          "source": "https://en.wikipedia.org/wiki/Battle_of_Adwa"
+        },
+        {
+          "id": "rosaparks",
+          "year": 1955,
+          "title": "Rosa Parks is arrested in Montgomery",
+          "label": "Rosa Parks is arrested",
+          "category": "World",
+          "fact": "Her refusal to give up her bus seat helps trigger the Montgomery bus boycott.",
+          "source": "https://en.wikipedia.org/wiki/Rosa_Parks"
+        },
+        {
+          "id": "gameboy",
+          "year": 1989,
+          "title": "Nintendo launches the Game Boy in Japan",
+          "label": "The Game Boy launches in Japan",
+          "category": "Culture",
+          "fact": "Nintendo’s handheld game system goes on sale in Japan before reaching North America later that year.",
+          "source": "https://en.wikipedia.org/wiki/Game_Boy"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-17",
+      "events": [
+        {
+          "id": "vasco",
+          "year": 1498,
+          "title": "Vasco da Gama reaches India by sea",
+          "label": "Vasco da Gama reaches India",
+          "category": "Exploration",
+          "fact": "His expedition arrives near Calicut after sailing from Portugal around the southern tip of Africa.",
+          "source": "https://en.wikipedia.org/wiki/Vasco_da_Gama"
+        },
+        {
+          "id": "trafalgar",
+          "year": 1805,
+          "title": "The Battle of Trafalgar is fought",
+          "label": "The Battle of Trafalgar",
+          "category": "World",
+          "fact": "A British fleet defeats a combined French and Spanish fleet; Admiral Nelson dies during the battle.",
+          "source": "https://en.wikipedia.org/wiki/Battle_of_Trafalgar"
+        },
+        {
+          "id": "curies",
+          "year": 1898,
+          "title": "Marie and Pierre Curie announce polonium",
+          "label": "The Curies announce polonium",
+          "category": "Science",
+          "fact": "The Curies report a new radioactive element, named for Marie’s native Poland.",
+          "source": "https://en.wikipedia.org/wiki/Polonium"
+        },
+        {
+          "id": "ghana",
+          "year": 1957,
+          "title": "Ghana gains independence",
+          "label": "Ghana gains independence",
+          "category": "World",
+          "fact": "The former Gold Coast becomes independent from Britain under the name Ghana.",
+          "source": "https://en.wikipedia.org/wiki/History_of_Ghana"
+        },
+        {
+          "id": "mandelafree",
+          "year": 1990,
+          "title": "Nelson Mandela is released from prison",
+          "label": "Nelson Mandela leaves prison",
+          "category": "World",
+          "fact": "Mandela walks free from Victor Verster Prison after 27 years of imprisonment.",
+          "source": "https://en.wikipedia.org/wiki/Nelson_Mandela"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "events": [
+        {
+          "id": "david",
+          "year": 1504,
+          "title": "Michelangelo’s David is unveiled in Florence",
+          "label": "Michelangelo’s David is unveiled",
+          "category": "Culture",
+          "fact": "The marble statue is placed outside the Palazzo Vecchio before later being moved indoors.",
+          "source": "https://en.wikipedia.org/wiki/David_(Michelangelo)"
+        },
+        {
+          "id": "beethoven",
+          "year": 1824,
+          "title": "Beethoven’s Ninth Symphony premieres",
+          "label": "Beethoven’s Ninth premieres",
+          "category": "Culture",
+          "fact": "The symphony, whose finale includes the Ode to Joy, is first performed in Vienna.",
+          "source": "https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)"
+        },
+        {
+          "id": "modelt",
+          "year": 1908,
+          "title": "The Ford Model T goes into production",
+          "label": "The Model T enters production",
+          "category": "Invention",
+          "fact": "Ford begins making the car that will bring motoring within reach of many more buyers.",
+          "source": "https://en.wikipedia.org/wiki/Ford_Model_T"
+        },
+        {
+          "id": "antarctic",
+          "year": 1959,
+          "title": "The Antarctic Treaty is signed",
+          "label": "The Antarctic Treaty is signed",
+          "category": "World",
+          "fact": "Twelve countries sign an agreement reserving Antarctica for peaceful activities and scientific cooperation.",
+          "source": "https://en.wikipedia.org/wiki/Antarctic_Treaty_System"
+        },
+        {
+          "id": "channel",
+          "year": 1994,
+          "title": "The Channel Tunnel officially opens",
+          "label": "The Channel Tunnel opens",
+          "category": "Invention",
+          "fact": "Queen Elizabeth II and President François Mitterrand formally open the rail link between Britain and France.",
+          "source": "https://en.wikipedia.org/wiki/Channel_Tunnel"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-19",
+      "events": [
+        {
+          "id": "balboa",
+          "year": 1513,
+          "title": "Balboa’s expedition reaches the Pacific from Panama",
+          "label": "Balboa reaches the Pacific",
+          "category": "Exploration",
+          "fact": "Vasco Núñez de Balboa crosses the isthmus of Panama and reaches the ocean he calls the South Sea.",
+          "source": "https://en.wikipedia.org/wiki/Vasco_N%C3%BA%C3%B1ez_de_Balboa"
+        },
+        {
+          "id": "braille",
+          "year": 1829,
+          "title": "Louis Braille publishes his reading system",
+          "label": "Braille publishes his reading system",
+          "category": "Invention",
+          "fact": "Braille presents his raised-dot method for reading and writing by touch in a published book.",
+          "source": "https://en.wikipedia.org/wiki/Louis_Braille"
+        },
+        {
+          "id": "machupicchu",
+          "year": 1911,
+          "title": "Hiram Bingham visits Machu Picchu",
+          "label": "Bingham visits Machu Picchu",
+          "category": "Exploration",
+          "fact": "Local residents guide Bingham to the Inca site; his expedition brings it wider international attention.",
+          "source": "https://en.wikipedia.org/wiki/Hiram_Bingham_III"
+        },
+        {
+          "id": "pill",
+          "year": 1960,
+          "title": "The FDA approves the first oral contraceptive pill",
+          "label": "First contraceptive pill approved",
+          "category": "Science",
+          "fact": "Enovid receives US approval for contraceptive use, after an earlier approval for menstrual disorders.",
+          "source": "https://en.wikipedia.org/wiki/Combined_oral_contraceptive_pill"
+        },
+        {
+          "id": "harrypotter",
+          "year": 1997,
+          "title": "The first Harry Potter novel is published",
+          "label": "The first Harry Potter book debuts",
+          "category": "Culture",
+          "fact": "Harry Potter and the Philosopher’s Stone is first published in the United Kingdom by Bloomsbury.",
+          "source": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher%27s_Stone"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-20",
+      "events": [
+        {
+          "id": "mercator",
+          "year": 1569,
+          "title": "Mercator publishes his famous world map",
+          "label": "Mercator publishes his world map",
+          "category": "Exploration",
+          "fact": "The map uses the projection that will become especially useful for plotting a constant compass course.",
+          "source": "https://en.wikipedia.org/wiki/Mercator_1569_world_map"
+        },
+        {
+          "id": "morse",
+          "year": 1844,
+          "title": "Morse sends his famous Washington–Baltimore message",
+          "label": "Morse’s famous telegraph message",
+          "category": "Invention",
+          "fact": "The telegraph demonstration sends the words What hath God wrought between Washington and Baltimore.",
+          "source": "https://en.wikipedia.org/wiki/Samuel_Morse"
+        },
+        {
+          "id": "crossword",
+          "year": 1913,
+          "title": "Arthur Wynne’s crossword appears in the New York World",
+          "label": "Wynne’s crossword is published",
+          "category": "Culture",
+          "fact": "The newspaper publishes Wynne’s diamond-shaped word puzzle, an early milestone in crossword history.",
+          "source": "https://en.wikipedia.org/wiki/Arthur_Wynne"
+        },
+        {
+          "id": "telstar",
+          "year": 1962,
+          "title": "Telstar 1 launches",
+          "label": "Telstar 1 launches",
+          "category": "Space",
+          "fact": "The communications satellite relays television signals across the Atlantic during its mission.",
+          "source": "https://en.wikipedia.org/wiki/Telstar_1"
+        },
+        {
+          "id": "eurocash",
+          "year": 2002,
+          "title": "Euro banknotes and coins enter circulation",
+          "label": "Euro notes and coins arrive",
+          "category": "World",
+          "fact": "Twelve countries introduce euro cash, three years after the currency began in non-cash form.",
+          "source": "https://en.wikipedia.org/wiki/Euro"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "events": [
+        {
+          "id": "gregorian",
+          "year": 1582,
+          "title": "The Gregorian calendar is introduced",
+          "label": "Gregorian calendar is introduced",
+          "category": "World",
+          "fact": "Pope Gregory XIII’s calendar reform is first adopted in several Catholic countries; others switch later.",
+          "source": "https://en.wikipedia.org/wiki/Gregorian_calendar"
+        },
+        {
+          "id": "goldrush",
+          "year": 1848,
+          "title": "Gold is discovered at Sutter’s Mill",
+          "label": "Gold is found at Sutter’s Mill",
+          "category": "World",
+          "fact": "James W. Marshall finds gold in California, setting off the California Gold Rush.",
+          "source": "https://en.wikipedia.org/wiki/California_Gold_Rush"
+        },
+        {
+          "id": "transsiberian",
+          "year": 1916,
+          "title": "The Trans-Siberian route entirely within Russia is completed",
+          "label": "All-Russian Trans-Siberian route opens",
+          "category": "Invention",
+          "fact": "Completion of the Amur Railway provides a route to Vladivostok that no longer needs to cross Manchuria.",
+          "source": "https://en.wikipedia.org/wiki/Trans-Siberian_Railway"
+        },
+        {
+          "id": "tereshkova",
+          "year": 1963,
+          "title": "Valentina Tereshkova becomes the first woman in space",
+          "label": "Tereshkova flies into space",
+          "category": "Space",
+          "fact": "She flies aboard Vostok 6 and spends almost three days orbiting Earth.",
+          "source": "https://en.wikipedia.org/wiki/Vostok_6"
+        },
+        {
+          "id": "curiosity",
+          "year": 2012,
+          "title": "Curiosity lands on Mars",
+          "label": "Curiosity lands on Mars",
+          "category": "Space",
+          "fact": "NASA’s rover touches down in Gale crater using a rocket-powered sky crane.",
+          "source": "https://en.wikipedia.org/wiki/Curiosity_(rover)"
+        }
+      ]
+    }
+  ]
+}
